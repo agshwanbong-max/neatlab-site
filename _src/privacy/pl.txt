@@ -1,0 +1,75 @@
+Polityka prywatności aplikacji Rollkeep
+
+Data wejścia w życie: 2026-11-13
+
+Niniejsza Polityka prywatności wyjaśnia, w jaki sposób aplikacja Rollkeep na iOS („Rollkeep”, „aplikacja”) przetwarza informacje. Rollkeep jest tworzona przez Neatlab („my”, „nas”).
+
+1. Podsumowanie
+- Rollkeep nie wymaga konta i nie korzysta z własnych serwerów.
+- Twoje zdjęcia, filmy, wyniki analizy i historia porządkowania pozostają na Twoim iPhonie. Nigdy ich nie otrzymujemy i nigdy nie są wykorzystywane do reklam.
+- Rollkeep wyświetla reklamy za pośrednictwem Google AdMob. Google może zbierać określone informacje o urządzeniu i korzystaniu z niego w celu wyświetlania i mierzenia reklam, zgodnie z opisem w sekcji 4.
+- Możesz zdecydować, czy zezwolić na śledzenie reklamowe, a aplikacja działa tak samo niezależnie od wyboru.
+
+2. Informacje, których nie zbieramy
+Nie zbieramy, nie przechowujemy ani nie mamy dostępu do:
+- Twoich zdjęć ani filmów, ich zawartości ani metadanych;
+- wyników analizy zdjęć wykonywanej na urządzeniu (takich jak grupy podobnych zdjęć czy oceny ostrości);
+- Twojej historii porządkowania, ustawień ani postępów;
+- Twojego imienia i nazwiska, adresu e-mail, numeru telefonu ani kontaktów.
+
+3. Dostęp do biblioteki zdjęć i przetwarzanie na urządzeniu
+Rollkeep prosi o dostęp do biblioteki zdjęć dopiero po stuknięciu „Zacznij porządkować zdjęcia”. Korzystamy z tego dostępu wyłącznie po to, aby wyświetlać Twoje zdjęcia miesiąc po miesiącu na Twoim iPhonie, grupować serie, podobne zdjęcia, zrzuty ekranu i duże filmy oraz usuwać zdjęcia lub dodawać je do ulubionych, gdy o to poprosisz.
+- Całe przetwarzanie zdjęć odbywa się na Twoim urządzeniu. Zdjęcia nie są nigdzie wysyłane.
+- Rollkeep zapisuje na urządzeniu wyłącznie odwołania (identyfikatory) do zdjęć oraz Twoje decyzje (zachowaj, kolejka usuwania, ulubione), aby zapamiętać Twoje postępy.
+- Usunięcie zdjęć zawsze wymaga Twojego potwierdzenia w systemowym oknie dialogowym iOS. Usunięte elementy trafiają do albumu „Ostatnio usunięte” w aplikacji Zdjęcia, skąd można je odzyskać przez 30 dni.
+- Dostęp do zdjęć możesz w każdej chwili zmienić lub cofnąć w Ustawieniach iOS > Prywatność i ochrona > Zdjęcia albo wybierając „Ograniczony dostęp”.
+
+4. Reklamy (Google AdMob)
+Rollkeep jest bezpłatna i utrzymuje się z reklam dostarczanych przez Google AdMob, usługę Google LLC (lub Google Ireland Limited w przypadku użytkowników z Europejskiego Obszaru Gospodarczego, Wielkiej Brytanii i Szwajcarii). Nie udostępniamy Twoich zdjęć, informacji o zdjęciach ani historii porządkowania Google ani żadnemu innemu partnerowi reklamowemu.
+
+Gdy wysyłane jest żądanie reklamy, pakiet Google Mobile Ads SDK w aplikacji może zbierać następujące informacje, zgodnie z deklaracją Google:
+- Identyfikatory urządzenia, takie jak identyfikator reklamowy (IDFA, tylko jeśli zezwolisz na śledzenie) lub inne identyfikatory przypisane do aplikacji lub dewelopera;
+- Przybliżoną (ogólną) lokalizację, ustaloną na przykład na podstawie adresu IP;
+- Dane reklamowe, takie jak wyświetlone reklamy;
+- Dane o interakcjach z produktem, takie jak uruchomienia aplikacji, stuknięcia i wyświetlenia filmów;
+- Dane diagnostyczne, takie jak dzienniki awarii i dane o wydajności (na przykład czas uruchamiania, częstotliwość zawieszeń lub zużycie energii).
+
+Google wykorzystuje te informacje do wyświetlania reklam, mierzenia ich skuteczności, zapobiegania oszustwom i ulepszania swoich usług. Jeśli zezwolisz na śledzenie, reklamy mogą być spersonalizowane na podstawie Twoich zainteresowań. Jeśli nie, Google może nadal wyświetlać reklamy niespersonalizowane, które mogą wykorzystywać ograniczone dane, takie jak przybliżona lokalizacja i kontekst aplikacji.
+
+Więcej informacji:
+- Polityka prywatności Google: https://policies.google.com/privacy
+- Jak Google wykorzystuje informacje z witryn i aplikacji, które korzystają z jego usług: https://policies.google.com/technologies/partner-sites
+- Jak Google wykorzystuje dane reklamowe: https://policies.google.com/technologies/ads
+
+Gdzie pojawiają się reklamy: jeden baner na ekranie Dziś i jeden na ekranie Miesiące; czasami reklama pełnoekranowa po ukończeniu miesiąca i stuknięciu Strona główna (maksymalnie dwa razy dziennie); oraz reklama z nagrodą tylko wtedy, gdy sam zdecydujesz się ją obejrzeć, aby otrzymać dodatkowy zestaw grup. Reklamy nigdy nie pojawiają się na ekranach, na których przeglądasz, sortujesz lub usuwasz zdjęcia, ani w widżetach.
+
+5. Twoje wybory
+- Przejrzystość śledzenia w aplikacjach (App Tracking Transparency): Rollkeep prosi o pozwolenie przed jakimkolwiek śledzeniem. Swój wybór możesz w każdej chwili zmienić w Ustawieniach iOS > Prywatność i ochrona > Śledzenie. Funkcje i liczba reklam są takie same niezależnie od wyboru.
+- Zgoda (EOG, Wielka Brytania, Szwajcaria i inne regiony, w których jest wymagana): Rollkeep korzysta z platformy Google User Messaging Platform, aby poprosić Cię o zgodę. Swoje wybory możesz w każdej chwili przejrzeć lub zmienić w aplikacji w sekcji Ustawienia > Prywatność i reklamy.
+- Lokalizacja: Rollkeep nie prosi o dostęp do usług lokalizacji na Twoim urządzeniu. Google może ustalić przybliżoną lokalizację na podstawie Twojego adresu IP.
+- Reklamy spersonalizowane: możesz również ograniczyć personalizację reklam w ustawieniach Google, jeśli jest to dostępne.
+
+6. Podstawy prawne (EOG, Wielka Brytania, Szwajcaria)
+Tam, gdzie zastosowanie ma RODO lub podobne przepisy, przetwarzanie związane z reklamami przez Google opiera się na Twojej zgodzie wyrażonej za pośrednictwem komunikatu o zgodzie Google lub na innych podstawach prawnych opisanych przez Google w jego własnej polityce prywatności. Nie przetwarzamy Twoich danych osobowych na własnych serwerach.
+
+7. Dane przechowywane na urządzeniu i sposób ich usunięcia
+Twoje ustawienia, postępy, kolejka usuwania, podsumowania porządkowania i dane widżetów są przechowywane wyłącznie na Twoim urządzeniu. Możesz je usunąć w Ustawienia > Resetuj historię porządkowania (nie usuwa to zdjęć) lub usuwając aplikację. Informacje zebrane przez Google są przechowywane zgodnie z zasadami Google.
+
+8. Dzieci
+Rollkeep nie jest skierowana do dzieci w wieku poniżej 13 lat (lub poniżej minimalnego wieku wymaganego w Twoim kraju). Nie zbieramy świadomie danych osobowych od dzieci. Klasyfikacja treści reklam w aplikacji jest ustawiona jako odpowiednia dla wszystkich odbiorców.
+
+9. Twoje prawa
+W zależności od miejsca zamieszkania (na przykład na mocy RODO lub stanowych przepisów o ochronie prywatności w USA) możesz mieć prawo do dostępu do swoich danych osobowych, ich sprostowania, usunięcia lub wniesienia sprzeciwu wobec ich przetwarzania albo do rezygnacji z reklam ukierunkowanych. Ponieważ nie przechowujemy Twoich danych osobowych, wnioski dotyczące danych reklamowych najlepiej kierować do Google (zob. linki w sekcji 4) i korzystać z wyborów opisanych w sekcji 5. Możesz też skontaktować się z nami, a pomożemy w miarę możliwości.
+
+10. Przekazywanie danych za granicę
+Google może przetwarzać informacje w Stanach Zjednoczonych i innych krajach. Szczegóły dotyczące stosowanych zabezpieczeń znajdziesz w Polityce prywatności Google.
+
+11. Bezpieczeństwo
+Twoje zdjęcia i dane o porządkowaniu nigdy nie opuszczają Twojego urządzenia za pośrednictwem Rollkeep. Dane związane z reklamami są obsługiwane przez Google zgodnie z jego praktykami bezpieczeństwa.
+
+12. Zmiany niniejszej polityki
+Jeśli zmienimy tę politykę, zaktualizujemy datę wejścia w życie na tej stronie, a w przypadku istotnych zmian wspomnimy o nich w informacjach o wersji aplikacji.
+
+13. Kontakt
+Neatlab
+E-mail: support@neatlab.app

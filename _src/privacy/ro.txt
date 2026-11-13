@@ -1,0 +1,75 @@
+Politica de confidențialitate Rollkeep
+
+Data intrării în vigoare: 2026-11-13
+
+Această Politică de confidențialitate explică modul în care aplicația iOS Rollkeep („Rollkeep”, „aplicația”) gestionează informațiile. Rollkeep este dezvoltată de Neatlab („noi”).
+
+1. Rezumat
+- Rollkeep nu necesită un cont și nu folosește servere proprii.
+- Pozele, clipurile video, rezultatele analizei și istoricul de ordonare rămân pe iPhone-ul tău. Nu le primim niciodată și nu sunt folosite niciodată pentru reclame.
+- Rollkeep afișează reclame prin Google AdMob. Google poate colecta anumite informații despre dispozitiv și utilizare pentru a afișa și măsura reclamele, așa cum se descrie în Secțiunea 4.
+- Poți alege dacă permiți urmărirea în scop publicitar, iar aplicația funcționează la fel în ambele cazuri.
+
+2. Informații pe care nu le colectăm
+Nu colectăm, nu stocăm și nu avem acces la:
+- pozele sau clipurile tale video, nici la conținutul ori metadatele acestora;
+- rezultatele analizei pozelor efectuate pe dispozitiv (cum ar fi grupurile de poze asemănătoare sau scorurile de claritate);
+- istoricul de ordonare, configurările sau progresul tău;
+- numele, adresa de e-mail, numărul de telefon sau contactele tale.
+
+3. Accesul la biblioteca de poze și procesarea pe dispozitiv
+Rollkeep solicită acces la biblioteca ta de poze numai după ce apeși „Începe ordonarea pozelor”. Folosim acest acces doar pentru a-ți afișa pozele lună de lună pe iPhone, pentru a grupa rafalele, pozele asemănătoare, capturile de ecran și clipurile video mari și pentru a șterge sau a adăuga poze la favorite atunci când ne ceri.
+- Toată procesarea pozelor are loc pe dispozitivul tău. Pozele nu sunt încărcate nicăieri.
+- Rollkeep salvează doar referințe (identificatori) către poze pe dispozitiv și deciziile tale (păstrare, coadă de ștergere, favorite), pentru a-ți reține progresul.
+- Ștergerea pozelor necesită întotdeauna confirmarea ta într-un dialog de sistem iOS. Elementele șterse sunt mutate în albumul „Șterse recent” din aplicația Poze, de unde pot fi recuperate timp de 30 de zile.
+- Poți modifica sau revoca oricând accesul la poze din Configurări iOS > Confidențialitate și securitate > Poze sau alegând „Acces limitat”.
+
+4. Publicitate (Google AdMob)
+Rollkeep este gratuită și este susținută de reclame furnizate de Google AdMob, un serviciu al Google LLC (sau al Google Ireland Limited pentru utilizatorii din Spațiul Economic European, Regatul Unit și Elveția). Nu partajăm pozele tale, informații despre poze sau istoricul de ordonare cu Google ori cu alt partener de publicitate.
+
+Când sunt solicitate reclame, Google Mobile Ads SDK din aplicație poate colecta următoarele informații, conform declarației Google:
+- Identificatori ai dispozitivului, cum ar fi identificatorul de publicitate (IDFA, doar dacă permiți urmărirea) sau alți identificatori la nivel de aplicație ori de dezvoltator;
+- Localizarea aproximativă (generală), de exemplu dedusă din adresa ta IP;
+- Date de publicitate, cum ar fi reclamele pe care le-ai văzut;
+- Date despre interacțiunea cu produsul, cum ar fi lansările aplicației, apăsările și vizualizările de clipuri video;
+- Date de diagnosticare, cum ar fi jurnalele de erori și datele de performanță (de exemplu, timpul de lansare, rata de blocare sau consumul de energie).
+
+Google folosește aceste informații pentru a afișa reclame, a măsura performanța reclamelor, a preveni frauda și a-și îmbunătăți serviciile. Dacă permiți urmărirea, reclamele pot fi personalizate în funcție de interesele tale. Dacă nu, Google poate afișa în continuare reclame nepersonalizate, care pot folosi date limitate, cum ar fi localizarea aproximativă și contextul aplicației.
+
+Află mai multe:
+- Politica de confidențialitate Google: https://policies.google.com/privacy
+- Cum folosește Google informațiile de pe site-urile sau din aplicațiile care îi folosesc serviciile: https://policies.google.com/technologies/partner-sites
+- Cum folosește Google datele de publicitate: https://policies.google.com/technologies/ads
+
+Unde apar reclamele: un banner pe ecranul Azi și unul pe ecranul Luni; uneori o reclamă pe tot ecranul după ce termini o lună și apeși Acasă (de cel mult două ori pe zi); și o reclamă cu recompensă doar dacă alegi să o urmărești pentru un set suplimentar de grupuri. Reclamele nu apar niciodată pe ecranele în care vezi, sortezi sau ștergi poze și nici în widgeturi.
+
+5. Opțiunile tale
+- Transparența urmăririi în aplicații (App Tracking Transparency): Rollkeep cere permisiunea înainte de orice urmărire. Îți poți schimba oricând alegerea din Configurări iOS > Confidențialitate și securitate > Urmărire. Funcțiile și numărul de reclame sunt aceleași în ambele cazuri.
+- Consimțământ (SEE, Regatul Unit, Elveția și alte regiuni unde este necesar): Rollkeep folosește User Messaging Platform de la Google pentru a-ți solicita consimțământul. Îți poți verifica sau modifica oricând opțiunile în aplicație, la Configurări > Confidențialitate și reclame.
+- Localizare: Rollkeep nu solicită acces la serviciile de localizare ale dispozitivului tău. Google poate deduce localizarea aproximativă din adresa ta IP.
+- Reclame personalizate: poți, de asemenea, să limitezi personalizarea reclamelor din setările Google, acolo unde este disponibil.
+
+6. Temeiuri juridice (SEE, Regatul Unit, Elveția)
+Acolo unde se aplică GDPR sau legi similare, procesarea legată de reclame efectuată de Google se bazează pe consimțământul tău, colectat prin mesajul de consimțământ al Google, sau pe alte temeiuri juridice pe care Google le descrie în propria politică de confidențialitate. Nu procesăm datele tale personale pe servere proprii.
+
+7. Datele stocate pe dispozitivul tău și cum le poți șterge
+Configurările, progresul, coada de ștergere, totalurile de ordonare și datele widgeturilor sunt stocate doar pe dispozitivul tău. Le poți șterge din Configurări > Resetează istoricul de ordonare (acest lucru nu șterge pozele) sau ștergând aplicația. Informațiile colectate de Google sunt păstrate conform politicilor Google.
+
+8. Copii
+Rollkeep nu se adresează copiilor sub 13 ani (sau sub vârsta minimă cerută în țara ta). Nu colectăm în mod intenționat informații personale de la copii. Clasificarea conținutului publicitar al aplicației este setată astfel încât să fie potrivită pentru publicul general.
+
+9. Drepturile tale
+În funcție de locul în care locuiești (de exemplu, în temeiul GDPR sau al legilor statale privind confidențialitatea din SUA), poți avea dreptul de a accesa, rectifica, șterge datele tale personale sau de a te opune prelucrării lor, ori de a renunța la publicitatea direcționată. Deoarece nu deținem datele tale personale, solicitările privind datele de publicitate sunt cel mai bine gestionate prin Google (vezi linkurile din Secțiunea 4) și prin opțiunile din Secțiunea 5. Ne poți și contacta, iar noi te vom ajuta cât putem.
+
+10. Transferuri internaționale
+Google poate procesa informații în Statele Unite și în alte țări. Consultă Politica de confidențialitate Google pentru detalii despre garanțiile sale.
+
+11. Securitate
+Pozele și datele de ordonare nu părăsesc niciodată dispozitivul tău prin Rollkeep. Datele legate de reclame sunt gestionate de Google conform practicilor sale de securitate.
+
+12. Modificări ale acestei politici
+Dacă modificăm această politică, vom actualiza data intrării în vigoare de pe această pagină și, în cazul modificărilor importante, le vom menționa în notele de lansare ale aplicației.
+
+13. Contact
+Neatlab
+E-mail: support@neatlab.app

@@ -1,0 +1,75 @@
+Zásady ochrany osobných údajov aplikácie Rollkeep
+
+Dátum účinnosti: 2026-11-13
+
+Tieto Zásady ochrany osobných údajov vysvetľujú, ako aplikácia Rollkeep pre iOS („Rollkeep“, „aplikácia“) zaobchádza s informáciami. Rollkeep vyvíja Neatlab („my“, „nás“).
+
+1. Zhrnutie
+- Rollkeep nevyžaduje účet a neprevádzkuje vlastné servery.
+- Vaše fotky, videá, výsledky analýzy a história upratovania zostávajú vo vašom iPhone. Nikdy ich nedostávame a nikdy sa nepoužívajú na reklamy.
+- Rollkeep zobrazuje reklamy prostredníctvom služby Google AdMob. Google môže zhromažďovať určité informácie o zariadení a jeho používaní na účely zobrazovania a merania reklám, ako je opísané v časti 4.
+- Môžete sa rozhodnúť, či povolíte sledovanie na reklamné účely, a aplikácia funguje rovnako v oboch prípadoch.
+
+2. Informácie, ktoré nezhromažďujeme
+Nezhromažďujeme, neukladáme ani nemáme prístup k:
+- vašim fotkám alebo videám, ich obsahu ani metadátam;
+- výsledkom analýzy fotiek vykonávanej v zariadení (napríklad skupinám podobných fotiek alebo hodnoteniu ostrosti);
+- vašej histórii upratovania, nastaveniam ani postupu;
+- vášmu menu, e-mailovej adrese, telefónnemu číslu ani kontaktom.
+
+3. Prístup k fotoknižnici a spracovanie v zariadení
+Rollkeep žiada o prístup k vašej fotoknižnici až potom, ako klepnete na „Začať upratovať fotky“. Tento prístup používame iba na to, aby sme vám vo vašom iPhone zobrazovali fotky po jednotlivých mesiacoch, zoskupovali sekvencie, podobné fotky, snímky obrazovky a veľké videá a vymazávali fotky alebo ich pridávali medzi obľúbené, keď o to požiadate.
+- Všetko spracovanie fotiek prebieha vo vašom zariadení. Fotky sa nikam nenahrávajú.
+- Rollkeep ukladá v zariadení iba odkazy (identifikátory) na fotky a vaše rozhodnutia (ponechať, front na vymazanie, obľúbené), aby si mohol pamätať váš postup.
+- Vymazanie fotiek vždy vyžaduje vaše potvrdenie v systémovom dialógovom okne iOS. Vymazané položky sa presunú do albumu „Nedávno vymazané“ v aplikácii Fotky, odkiaľ ich možno 30 dní obnoviť.
+- Prístup k fotkám môžete kedykoľvek zmeniť alebo odvolať v Nastaveniach iOS > Súkromie a bezpečnosť > Fotky alebo výberom možnosti „Obmedzený prístup“.
+
+4. Reklamy (Google AdMob)
+Rollkeep je zadarmo a je financovaný reklamami poskytovanými službou Google AdMob, ktorú prevádzkuje spoločnosť Google LLC (alebo Google Ireland Limited pre používateľov v Európskom hospodárskom priestore, Spojenom kráľovstve a Švajčiarsku). Vaše fotky, informácie o fotkách ani históriu upratovania nezdieľame so spoločnosťou Google ani so žiadnym iným reklamným partnerom.
+
+Pri vyžiadaní reklamy môže súprava Google Mobile Ads SDK v aplikácii podľa informácií spoločnosti Google zhromažďovať tieto údaje:
+- Identifikátory zariadenia, napríklad reklamný identifikátor (IDFA, iba ak povolíte sledovanie) alebo iné identifikátory viazané na aplikáciu či vývojára;
+- Približnú (hrubú) polohu, odvodenú napríklad z vašej IP adresy;
+- Reklamné údaje, napríklad reklamy, ktoré ste videli;
+- Údaje o interakcii s produktom, napríklad spustenia aplikácie, klepnutia a pozretia videí;
+- Diagnostické údaje, napríklad záznamy o zlyhaní a údaje o výkone (napríklad čas spustenia, frekvencia zamrznutí alebo spotreba energie).
+
+Google tieto informácie používa na zobrazovanie reklám, meranie ich výkonu, predchádzanie podvodom a zlepšovanie svojich služieb. Ak povolíte sledovanie, reklamy môžu byť prispôsobené vašim záujmom. Ak nie, Google môže naďalej zobrazovať neprispôsobené reklamy, ktoré môžu využívať obmedzené údaje, napríklad približnú polohu a kontext aplikácie.
+
+Ďalšie informácie:
+- Pravidlá ochrany súkromia Google: https://policies.google.com/privacy
+- Ako Google používa informácie z webov a aplikácií, ktoré využívajú jeho služby: https://policies.google.com/technologies/partner-sites
+- Ako Google používa reklamné údaje: https://policies.google.com/technologies/ads
+
+Kde sa reklamy zobrazujú: jeden banner na obrazovke Dnes a jeden na obrazovke Mesiace; občas reklama na celú obrazovku po dokončení mesiaca a klepnutí na Domov (najviac dvakrát denne); a reklama s odmenou iba vtedy, keď sa ju rozhodnete pozrieť za ďalšiu sadu skupín. Reklamy sa nikdy nezobrazujú na obrazovkách, kde fotky prezeráte, triedite alebo vymazávate, ani vo widgetoch.
+
+5. Vaše voľby
+- Transparentnosť sledovania v aplikáciách (App Tracking Transparency): Rollkeep žiada o povolenie pred akýmkoľvek sledovaním. Svoju voľbu môžete kedykoľvek zmeniť v Nastaveniach iOS > Súkromie a bezpečnosť > Sledovanie. Funkcie aj počet reklám sú v oboch prípadoch rovnaké.
+- Súhlas (EHP, Spojené kráľovstvo, Švajčiarsko a ďalšie regióny, kde sa vyžaduje): Rollkeep používa platformu Google User Messaging Platform na vyžiadanie vášho súhlasu. Svoje voľby môžete kedykoľvek skontrolovať alebo zmeniť v aplikácii v časti Nastavenia > Súkromie a reklamy.
+- Poloha: Rollkeep nežiada o prístup k polohovým službám vášho zariadenia. Približnú polohu môže Google odvodiť z vašej IP adresy.
+- Prispôsobené reklamy: prispôsobovanie reklám môžete obmedziť aj v nastaveniach Google, ak je táto možnosť k dispozícii.
+
+6. Právne základy (EHP, Spojené kráľovstvo, Švajčiarsko)
+Tam, kde platí GDPR alebo podobné právne predpisy, sa spracúvanie súvisiace s reklamami zo strany Google opiera o váš súhlas získaný prostredníctvom správy o súhlase Google alebo o iné právne základy, ktoré Google opisuje vo svojich vlastných pravidlách ochrany súkromia. Vaše osobné údaje na vlastných serveroch nespracúvame.
+
+7. Údaje uložené vo vašom zariadení a ako ich vymazať
+Vaše nastavenia, postup, front na vymazanie, súhrny upratovania a dáta widgetov sú uložené iba vo vašom zariadení. Vymazať ich môžete v Nastavenia > Resetovať históriu upratovania (tým sa nevymažú fotky) alebo vymazaním aplikácie. Informácie zhromaždené spoločnosťou Google sa uchovávajú v súlade s pravidlami Google.
+
+8. Deti
+Rollkeep nie je určený deťom mladším ako 13 rokov (alebo mladším, ako je minimálny vek stanovený vo vašej krajine). Vedome nezhromažďujeme osobné údaje od detí. Hodnotenie obsahu reklám v aplikácii je nastavené ako vhodné pre všetky vekové skupiny.
+
+9. Vaše práva
+V závislosti od toho, kde žijete (napríklad podľa GDPR alebo zákonov o ochrane súkromia jednotlivých štátov USA), môžete mať právo na prístup k svojim osobným údajom, ich opravu, vymazanie alebo namietať proti ich spracúvaniu, prípadne odmietnuť cielenú reklamu. Keďže vaše osobné údaje neuchovávame, žiadosti týkajúce sa reklamných údajov je najlepšie riešiť priamo so spoločnosťou Google (pozrite si odkazy v časti 4) a pomocou volieb v časti 5. Môžete nás tiež kontaktovať a pomôžeme, kde to bude možné.
+
+10. Medzinárodné prenosy údajov
+Google môže spracúvať informácie v Spojených štátoch a ďalších krajinách. Podrobnosti o jeho zárukách nájdete v Pravidlách ochrany súkromia Google.
+
+11. Bezpečnosť
+Vaše fotky a údaje o upratovaní nikdy neopustia vaše zariadenie prostredníctvom aplikácie Rollkeep. S údajmi súvisiacimi s reklamami narába Google v súlade so svojimi bezpečnostnými postupmi.
+
+12. Zmeny týchto zásad
+Ak tieto zásady zmeníme, aktualizujeme dátum účinnosti na tejto stránke a v prípade významných zmien ich spomenieme v poznámkach k vydaniu aplikácie.
+
+13. Kontakt
+Neatlab
+E-mail: support@neatlab.app

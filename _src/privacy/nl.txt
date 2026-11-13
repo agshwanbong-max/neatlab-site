@@ -1,0 +1,75 @@
+Privacybeleid van Rollkeep
+
+Ingangsdatum: 2026-11-13
+
+Dit privacybeleid legt uit hoe de iOS-app Rollkeep (“Rollkeep”, “de app”) met informatie omgaat. Rollkeep is ontwikkeld door Neatlab (“wij”, “ons”).
+
+1. Samenvatting
+- Rollkeep vereist geen account en gebruikt geen eigen servers.
+- Je foto’s, video’s, analyseresultaten en opruimgeschiedenis blijven op je iPhone. Wij ontvangen ze nooit en ze worden nooit voor advertenties gebruikt.
+- Rollkeep toont advertenties via Google AdMob. Google kan bepaalde apparaat- en gebruiksgegevens verzamelen om advertenties te tonen en te meten, zoals beschreven in sectie 4.
+- Je kunt kiezen of je advertentietracking toestaat; de app werkt in beide gevallen hetzelfde.
+
+2. Informatie die we niet verzamelen
+We verzamelen en bewaren het volgende niet, en hebben er ook geen toegang toe:
+- je foto’s of video’s, of hun inhoud of metadata;
+- de resultaten van fotoanalyse op het apparaat (zoals groepen vergelijkbare foto’s of scherptescores);
+- je opruimgeschiedenis, instellingen of voortgang;
+- je naam, e-mailadres, telefoonnummer of contacten.
+
+3. Toegang tot de fotobibliotheek en verwerking op het apparaat
+Rollkeep vraagt pas om toegang tot je fotobibliotheek nadat je op “Begin met foto’s opruimen” tikt. We gebruiken deze toegang alleen om je foto’s maand voor maand op je iPhone te tonen, om reeksen, vergelijkbare foto’s, screenshots en grote video’s te groeperen, en om foto’s te verwijderen of als favoriet te markeren wanneer je ons daarom vraagt.
+- Alle fotoverwerking gebeurt op je apparaat. Foto’s worden nergens naartoe geüpload.
+- Rollkeep bewaart alleen verwijzingen (ID’s) naar foto’s op het apparaat en je beslissingen (bewaren, verwijderwachtrij, favoriet), zodat de app je voortgang kan onthouden.
+- Voor het verwijderen van foto’s is altijd je bevestiging in een iOS-systeemvenster nodig. Verwijderde onderdelen gaan naar het album “Recent verwijderd” in de Foto’s-app, waar ze 30 dagen lang kunnen worden hersteld.
+- Je kunt de toegang tot foto’s op elk moment wijzigen of intrekken in iOS via Instellingen > Privacy en beveiliging > Foto’s, of door “Beperkte toegang” te kiezen.
+
+4. Advertenties (Google AdMob)
+Rollkeep is gratis en wordt ondersteund door advertenties van Google AdMob, een dienst van Google LLC (of Google Ireland Limited voor gebruikers in de Europese Economische Ruimte, het Verenigd Koninkrijk en Zwitserland). We delen je foto’s, foto-informatie of opruimgeschiedenis niet met Google of een andere advertentiepartner.
+
+Wanneer advertenties worden opgevraagd, kan de Google Mobile Ads SDK in de app volgens de informatie van Google de volgende gegevens verzamelen:
+- Apparaat-ID’s, zoals de advertentie-ID (IDFA, alleen als je tracking toestaat) of andere ID’s die aan de app of de ontwikkelaar zijn gekoppeld;
+- Geschatte (globale) locatie, bijvoorbeeld afgeleid van je IP-adres;
+- Advertentiegegevens, zoals de advertenties die je hebt gezien;
+- Gegevens over productinteractie, zoals het openen van de app, tikken en het bekijken van video’s;
+- Diagnostische gegevens, zoals crashlogs en prestatiegegevens (bijvoorbeeld opstarttijd, hoe vaak de app vastloopt of energieverbruik).
+
+Google gebruikt deze informatie om advertenties te tonen, de prestaties van advertenties te meten, fraude te voorkomen en zijn diensten te verbeteren. Als je tracking toestaat, kunnen advertenties worden gepersonaliseerd op basis van je interesses. Zo niet, dan kan Google nog steeds niet-gepersonaliseerde advertenties tonen, die beperkte gegevens kunnen gebruiken, zoals je geschatte locatie en de context van de app.
+
+Meer informatie:
+- Privacybeleid van Google: https://policies.google.com/privacy
+- Hoe Google informatie gebruikt van sites of apps die zijn diensten gebruiken: https://policies.google.com/technologies/partner-sites
+- Hoe Google advertentiegegevens gebruikt: https://policies.google.com/technologies/ads
+
+Waar advertenties verschijnen: één banner op het scherm Vandaag en één op het scherm Maanden; soms een advertentie op volledig scherm nadat je een maand hebt afgerond en op Home tikt (maximaal twee keer per dag); en een advertentie met beloning alleen als je ervoor kiest er een te bekijken voor een extra set groepen. Advertenties verschijnen nooit op schermen waar je foto’s bekijkt, sorteert of verwijdert, en nooit in widgets.
+
+5. Jouw keuzes
+- App Tracking Transparency: Rollkeep vraagt om toestemming voordat er enige tracking plaatsvindt. Je kunt je keuze op elk moment wijzigen in iOS via Instellingen > Privacy en beveiliging > Tracking. De functies en het aantal advertenties zijn in beide gevallen hetzelfde.
+- Toestemming (EER, VK, Zwitserland en andere regio’s waar dit vereist is): Rollkeep gebruikt het User Messaging Platform van Google om je toestemming te vragen. Je kunt je keuzes op elk moment bekijken of wijzigen in de app via Instellingen > Privacy en advertenties.
+- Locatie: Rollkeep vraagt geen toegang tot de locatievoorzieningen van je apparaat. Google kan je geschatte locatie afleiden uit je IP-adres.
+- Gepersonaliseerde advertenties: je kunt advertentiepersonalisatie ook beperken in je Google-instellingen, waar beschikbaar.
+
+6. Rechtsgronden (EER, VK, Zwitserland)
+Waar de AVG of vergelijkbare wetgeving van toepassing is, berust de advertentiegerelateerde verwerking door Google op je toestemming die via de toestemmingsmelding van Google is verkregen, of op andere rechtsgronden die Google in zijn eigen privacybeleid beschrijft. We verwerken je persoonsgegevens niet op onze eigen servers.
+
+7. Gegevens op je apparaat en hoe je ze verwijdert
+Je instellingen, voortgang, verwijderwachtrij, opruimtotalen en widgetgegevens worden alleen op je apparaat opgeslagen. Je kunt ze verwijderen via Instellingen > Opruimgeschiedenis resetten (hiermee worden geen foto’s verwijderd), of door de app te verwijderen. Informatie die door Google is verzameld, wordt bewaard volgens het beleid van Google.
+
+8. Kinderen
+Rollkeep is niet gericht op kinderen jonger dan 13 jaar (of de minimumleeftijd die in je land geldt). We verzamelen niet bewust persoonsgegevens van kinderen. De classificatie van advertentie-inhoud in de app is zo ingesteld dat deze geschikt is voor een algemeen publiek.
+
+9. Jouw rechten
+Afhankelijk van waar je woont (bijvoorbeeld onder de AVG of privacywetten van Amerikaanse staten), heb je mogelijk het recht om je persoonsgegevens in te zien, te corrigeren of te verwijderen, of bezwaar te maken tegen de verwerking ervan, of je af te melden voor gerichte advertenties. Omdat wij je persoonsgegevens niet bewaren, kun je verzoeken over advertentiegegevens het best via Google afhandelen (zie de links in sectie 4) en via de keuzes in sectie 5. Je kunt ook contact met ons opnemen; we helpen waar we kunnen.
+
+10. Internationale doorgifte
+Google kan informatie verwerken in de Verenigde Staten en andere landen. Zie het privacybeleid van Google voor meer informatie over de waarborgen die Google hanteert.
+
+11. Beveiliging
+Je foto’s en opruimgegevens verlaten je apparaat nooit via Rollkeep. Advertentiegerelateerde gegevens worden door Google verwerkt volgens de beveiligingspraktijken van Google.
+
+12. Wijzigingen in dit beleid
+Als we dit beleid wijzigen, passen we de ingangsdatum op deze pagina aan en vermelden we belangrijke wijzigingen in de release-opmerkingen van de app.
+
+13. Contact
+Neatlab
+E-mail: support@neatlab.app

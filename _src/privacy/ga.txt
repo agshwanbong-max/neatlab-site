@@ -1,0 +1,75 @@
+Polasaí Príobháideachais Rollkeep
+
+Dáta éifeachtach: 2026-11-13
+
+Míníonn an Polasaí Príobháideachais seo conas a láimhseálann an aip iOS Rollkeep (“Rollkeep”, “an aip”) faisnéis. Is é Neatlab (“muid”, “sinn”) a fhorbraíonn Rollkeep.
+
+1. Achoimre
+- Níl cuntas ag teastáil le Rollkeep agus níl a fhreastalaithe féin aige.
+- Fanann do ghrianghraif, d’fhíseáin, torthaí anailíse agus stair ghlantacháin ar d’iPhone. Ní fhaighimid riamh iad, agus ní úsáidtear riamh iad le haghaidh fógraí.
+- Taispeánann Rollkeep fógraí trí Google AdMob. D’fhéadfadh Google faisnéis áirithe faoin ngléas agus faoin úsáid a bhailiú chun fógraí a thaispeáint agus a thomhas, mar a mhínítear in Alt 4.
+- Is féidir leat a roghnú an gceadaíonn tú rianú fógraí, agus oibríonn an aip mar an gcéanna ar aon nós.
+
+2. Faisnéis nach mbailímid
+Ní bhailímid, ní stórálaimid agus níl rochtain againn ar:
+- do ghrianghraif ná d’fhíseáin, ná a n-ábhar ná a meiteashonraí;
+- torthaí na hanailíse grianghraf a dhéantar ar an ngléas (amhail grúpaí grianghraf cosúil le chéile nó scóir ghéire);
+- do stair ghlantacháin, do shocruithe ná do dhul chun cinn;
+- d’ainm, do sheoladh ríomhphoist, d’uimhir theileafóin ná do theagmhálaithe.
+
+3. Rochtain ar an leabharlann grianghraf agus próiseáil ar an ngléas
+Ní iarrann Rollkeep rochtain ar do leabharlann grianghraf ach amháin tar éis duit “Tosaigh ag glanadh grianghraf” a thapáil. Ní úsáidimid an rochtain seo ach chun do ghrianghraif a thaispeáint mí ar mhí ar d’iPhone, chun pléascanna, grianghraif chosúla, gabhálacha scáileáin agus físeáin mhóra a ghrúpáil, agus chun grianghraif a scriosadh nó a chur leis na ceanáin nuair a iarrann tú orainn é.
+- Déantar an phróiseáil grianghraf ar fad ar do ghléas. Ní uaslódáiltear grianghraif áit ar bith.
+- Ní shábhálann Rollkeep ach tagairtí (aitheantóirí) ar an ngléas do ghrianghraif agus do chinntí (coinnigh, scuaine scriosta, ceanán) ionas gur féidir leis do dhul chun cinn a mheabhrú.
+- Teastaíonn do dheimhniú i gcónaí i mbosca dialóige córais iOS chun grianghraif a scriosadh. Bogtar míreanna scriosta chuig an albam “Scriosta le Déanaí” (Recently Deleted) san aip Grianghraif (Photos), áit ar féidir iad a aisghabháil ar feadh 30 lá.
+- Is féidir leat rochtain ar ghrianghraif a athrú nó a chúlghairm am ar bith i Socruithe iOS > Príobháideachas agus Slándáil > Grianghraif (Settings > Privacy & Security > Photos), nó trí “Rochtain Theoranta” (Limited Access) a roghnú.
+
+4. Fógraíocht (Google AdMob)
+Tá Rollkeep saor in aisce agus tacaítear leis le fógraí a sholáthraíonn Google AdMob, seirbhís de chuid Google LLC (nó Google Ireland Limited d’úsáideoirí sa Limistéar Eorpach Eacnamaíochta, sa Ríocht Aontaithe agus san Eilvéis). Ní roinnimid do ghrianghraif, faisnéis faoi ghrianghraif ná do stair ghlantacháin le Google ná le haon chomhpháirtí fógraíochta eile.
+
+Nuair a iarrtar fógraí, d’fhéadfadh an Google Mobile Ads SDK san aip an fhaisnéis seo a leanas a bhailiú, de réir nochtadh Google:
+- Aitheantóirí gléis, amhail an t-aitheantóir fógraíochta (IDFA, ach amháin má cheadaíonn tú rianú) nó aitheantóirí eile atá teoranta don aip nó don fhorbróir;
+- Suíomh garbh (neamhbheacht), mar shampla suíomh a dhíorthaítear ó do sheoladh IP;
+- Sonraí fógraíochta, amhail na fógraí a chonaic tú;
+- Sonraí idirghníomhaíochta táirge, amhail tosuithe aipe, tapanna agus amhairc físeán;
+- Sonraí diagnóiseacha, amhail logaí tuairteála agus sonraí feidhmíochta (mar shampla, am tosaithe, ráta reo nó úsáid fuinnimh).
+
+Úsáideann Google an fhaisnéis seo chun fógraí a thaispeáint, feidhmíocht fógraí a thomhas, calaois a chosc agus a sheirbhísí a fheabhsú. Má cheadaíonn tú rianú, d’fhéadfaí fógraí a phearsantú bunaithe ar do spéiseanna. Mura gceadaíonn, d’fhéadfadh Google fógraí neamhphearsantaithe a thaispeáint fós, a d’fhéadfadh sonraí teoranta a úsáid, amhail suíomh garbh agus comhthéacs na haipe.
+
+Tuilleadh eolais:
+- Polasaí Príobháideachais Google: https://policies.google.com/privacy
+- Conas a úsáideann Google faisnéis ó shuíomhanna nó ó aipeanna a úsáideann a sheirbhísí: https://policies.google.com/technologies/partner-sites
+- Conas a úsáideann Google sonraí fógraíochta: https://policies.google.com/technologies/ads
+
+Cá háit a dtaispeántar fógraí: meirge amháin ar an scáileán Inniu agus ceann amháin ar an scáileán Míonna; uaireanta fógra lánscáileáin tar éis duit mí a chríochnú agus Baile a thapáil (dhá uair sa lá ar a mhéad); agus fógra luaíochta ach amháin má roghnaíonn tú féachaint ar cheann chun tacar breise grúpaí a fháil. Ní thaispeántar fógraí riamh ar na scáileáin ina bhféachann tú ar ghrianghraif, ina sórtálann tú iad nó ina scriosann tú iad, ná i ngiuirléidí.
+
+5. Do roghanna
+- Trédhearcacht Rianaithe Aipeanna (App Tracking Transparency): Iarrann Rollkeep cead ort sula ndéantar aon rianú. Is féidir leat do rogha a athrú am ar bith i Socruithe iOS > Príobháideachas agus Slándáil > Rianú (Settings > Privacy & Security > Tracking). Tá na gnéithe agus líon na bhfógraí mar an gcéanna ar aon nós.
+- Toiliú (LEE, an Ríocht Aontaithe, an Eilvéis agus réigiúin eile ina bhfuil sé de dhíth): Úsáideann Rollkeep User Messaging Platform Google chun do thoiliú a iarraidh. Is féidir leat do roghanna a athbhreithniú nó a athrú am ar bith san aip faoi Socruithe > Príobháideachas agus Fógraí.
+- Suíomh: Ní iarrann Rollkeep rochtain ar sheirbhísí suímh do ghléis. D’fhéadfadh Google suíomh garbh a thátal ó do sheoladh IP.
+- Fógraí pearsantaithe: is féidir leat pearsantú fógraí a theorannú freisin i do shocruithe Google, áit a bhfuil sin ar fáil.
+
+6. Bunúis dhlíthiúla (LEE, an Ríocht Aontaithe, an Eilvéis)
+Nuair is infheidhme an GDPR nó dlíthe comhchosúla, braitheann próiseáil a bhaineann le fógraí ag Google ar do thoiliú a bhailítear trí theachtaireacht toilithe Google, nó ar bhunúis dhlíthiúla eile a mhíníonn Google ina pholasaí príobháideachais féin. Ní phróiseálaimid do shonraí pearsanta ar ár bhfreastalaithe féin.
+
+7. Sonraí a stóráiltear ar do ghléas agus conas iad a scriosadh
+Stóráiltear do shocruithe, do dhul chun cinn, do scuaine scriosta, iomláin ghlantacháin agus sonraí giuirléidí ar do ghléas amháin. Is féidir leat iad a scriosadh i Socruithe > Athshocraigh stair ghlantacháin (ní scriosann sé seo grianghraif), nó tríd an aip a scriosadh. Coinnítear faisnéis a bhailíonn Google de réir pholasaithe Google.
+
+8. Leanaí
+Níl Rollkeep dírithe ar leanaí faoi 13 bliana d’aois (nó faoin aois íosta is gá i do thír). Ní bhailímid faisnéis phearsanta ó leanaí go feasach. Tá rátáil ábhar fógraí na haipe socraithe le bheith oiriúnach do lucht féachana ginearálta.
+
+9. Do chearta
+Ag brath ar an áit a bhfuil cónaí ort (mar shampla, faoin GDPR nó faoi dhlíthe príobháideachais stáit SAM), d’fhéadfadh sé go mbeadh sé de cheart agat rochtain a fháil ar do shonraí pearsanta, iad a cheartú nó a scriosadh, nó agóid a dhéanamh i gcoinne a bpróiseála, nó diúltú d’fhógraíocht spriocdhírithe. Ós rud é nach gcoinnímid do shonraí pearsanta, is fearr iarratais faoi shonraí fógraíochta a dhéanamh trí Google (féach na naisc in Alt 4) agus trí na roghanna in Alt 5. Is féidir leat teagmháil a dhéanamh linn freisin, agus cabhróimid leat más féidir linn.
+
+10. Aistrithe idirnáisiúnta
+D’fhéadfadh Google faisnéis a phróiseáil sna Stáit Aontaithe agus i dtíortha eile. Féach Polasaí Príobháideachais Google le haghaidh sonraí faoina chosaintí.
+
+11. Slándáil
+Ní fhágann do ghrianghraif ná do shonraí glantacháin do ghléas riamh trí Rollkeep. Láimhseálann Google sonraí a bhaineann le fógraí faoina chleachtais slándála féin.
+
+12. Athruithe ar an bpolasaí seo
+Má athraímid an polasaí seo, nuashonróimid an dáta éifeachtach ar an leathanach seo agus, i gcás athruithe suntasacha, luafaimid é i nótaí eisiúna na haipe.
+
+13. Teagmháil
+Neatlab
+Ríomhphost: support@neatlab.app

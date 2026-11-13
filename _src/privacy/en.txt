@@ -1,0 +1,75 @@
+Rollkeep Privacy Policy
+
+Effective date: 2026-11-13
+
+This Privacy Policy explains how the Rollkeep iOS app ("Rollkeep", "the app") handles information. Rollkeep is developed by Neatlab ("we", "us").
+
+1. Summary
+- Rollkeep does not require an account and does not run its own servers.
+- Your photos, videos, analysis results, and cleanup history stay on your iPhone. We never receive them, and they are never used for ads.
+- Rollkeep shows ads through Google AdMob. Google may collect certain device and usage information to show and measure ads, as described in Section 4.
+- You can choose whether to allow ad tracking, and the app works the same either way.
+
+2. Information we do not collect
+We do not collect, store, or have access to:
+- your photos or videos, or their contents or metadata;
+- the results of on-device photo analysis (such as similar-photo groups or sharpness scores);
+- your cleanup history, settings, or progress;
+- your name, email address, phone number, or contacts.
+
+3. Photo library access and on-device processing
+Rollkeep asks for access to your photo library only after you tap "Start cleaning photos". We use this access only to show your photos month by month on your iPhone, to group bursts, similar photos, screenshots, and large videos, and to delete or favorite photos when you ask us to.
+- All photo processing happens on your device. Photos are not uploaded anywhere.
+- Rollkeep saves only on-device references (identifiers) to photos and your decisions (keep, delete queue, favorite) so it can remember your progress.
+- Deleting photos always requires your confirmation in an iOS system dialog. Deleted items move to the Photos app's "Recently Deleted" album, where they can be recovered for 30 days.
+- You can change or revoke photo access at any time in iOS Settings > Privacy & Security > Photos, or by choosing "Limited Access".
+
+4. Advertising (Google AdMob)
+Rollkeep is free and is supported by ads provided by Google AdMob, a service of Google LLC (or Google Ireland Limited for users in the European Economic Area, the United Kingdom, and Switzerland). We do not share your photos, photo information, or cleanup history with Google or any other ad partner.
+
+When ads are requested, the Google Mobile Ads SDK in the app may collect the following information, according to Google's disclosure:
+- Device identifiers, such as the advertising identifier (IDFA, only if you allow tracking) or other app- or developer-scoped identifiers;
+- Approximate (coarse) location, for example derived from your IP address;
+- Advertising data, such as the ads you have seen;
+- Product interaction data, such as app launches, taps, and video views;
+- Diagnostic data, such as crash logs and performance data (for example, launch time, hang rate, or energy use).
+
+Google uses this information to show ads, measure ad performance, prevent fraud, and improve its services. If you allow tracking, ads may be personalized based on your interests. If you do not, Google may still show non-personalized ads, which can use limited data such as approximate location and the context of the app.
+
+Learn more:
+- Google Privacy Policy: https://policies.google.com/privacy
+- How Google uses information from sites or apps that use its services: https://policies.google.com/technologies/partner-sites
+- How Google uses advertising data: https://policies.google.com/technologies/ads
+
+Where ads appear: one banner on the Today screen and one on the Months screen; sometimes a full-screen ad after you finish a month and tap Home (at most twice a day); and a rewarded ad only if you choose to watch one for an extra group set. Ads never appear on screens where you view, sort, or delete photos, or in widgets.
+
+5. Your choices
+- App Tracking Transparency: Rollkeep asks for permission before any tracking. You can change your choice at any time in iOS Settings > Privacy & Security > Tracking. Features and the number of ads are the same either way.
+- Consent (EEA, UK, Switzerland, and other regions where required): Rollkeep uses Google's User Messaging Platform to ask for your consent. You can review or change your choices at any time in the app under Settings > Privacy & Ads.
+- Location: Rollkeep does not request access to your device's location services. Approximate location may be inferred by Google from your IP address.
+- Personalized ads: you can also limit ad personalization in your Google settings where available.
+
+6. Legal bases (EEA, UK, Switzerland)
+Where the GDPR or similar laws apply, ad-related processing by Google relies on your consent collected through Google's consent message, or on other legal bases that Google describes in its own privacy policy. We do not process your personal data on our own servers.
+
+7. Data stored on your device and how to delete it
+Your settings, progress, delete queue, cleanup totals, and widget data are stored only on your device. You can delete them in Settings > Reset cleanup history (this does not delete photos), or by deleting the app. Information collected by Google is kept according to Google's policies.
+
+8. Children
+Rollkeep is not directed to children under 13 (or the minimum age required in your country). We do not knowingly collect personal information from children. The app's ad content rating is set to be suitable for general audiences.
+
+9. Your rights
+Depending on where you live (for example, under the GDPR or U.S. state privacy laws), you may have rights to access, correct, delete, or object to the processing of your personal data, or to opt out of targeted advertising. Because we do not hold your personal data, requests about advertising data are best handled through Google (see the links in Section 4) and the choices in Section 5. You may also contact us, and we will help where we can.
+
+10. International transfers
+Google may process information in the United States and other countries. Please see Google's Privacy Policy for details on its safeguards.
+
+11. Security
+Your photos and cleanup data never leave your device through Rollkeep. Ad-related data is handled by Google under its security practices.
+
+12. Changes to this policy
+If we change this policy, we will update the effective date on this page and, for significant changes, mention it in the app's release notes.
+
+13. Contact
+Neatlab
+Email: support@neatlab.app

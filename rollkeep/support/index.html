@@ -5,55 +5,97 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Rollkeep Support</title>
 <meta name="description" content="Help and contact for the Rollkeep iPhone app.">
+<link rel="canonical" href="https://neatlab.app/rollkeep/support/">
+<link rel="alternate" hreflang="en" href="https://neatlab.app/rollkeep/support/">
+<link rel="alternate" hreflang="ko" href="https://neatlab.app/rollkeep/support/ko/">
+<link rel="alternate" hreflang="ja" href="https://neatlab.app/rollkeep/support/ja/">
+<link rel="alternate" hreflang="zh-Hans" href="https://neatlab.app/rollkeep/support/zh-hans/">
+<link rel="alternate" hreflang="zh-Hant" href="https://neatlab.app/rollkeep/support/zh-hant/">
+<link rel="alternate" hreflang="de" href="https://neatlab.app/rollkeep/support/de/">
+<link rel="alternate" hreflang="fr" href="https://neatlab.app/rollkeep/support/fr/">
+<link rel="alternate" hreflang="es" href="https://neatlab.app/rollkeep/support/es/">
+<link rel="alternate" hreflang="it" href="https://neatlab.app/rollkeep/support/it/">
+<link rel="alternate" hreflang="pt-PT" href="https://neatlab.app/rollkeep/support/pt/">
+<link rel="alternate" hreflang="nl" href="https://neatlab.app/rollkeep/support/nl/">
+<link rel="alternate" hreflang="pl" href="https://neatlab.app/rollkeep/support/pl/">
+<link rel="alternate" hreflang="sv" href="https://neatlab.app/rollkeep/support/sv/">
+<link rel="alternate" hreflang="da" href="https://neatlab.app/rollkeep/support/da/">
+<link rel="alternate" hreflang="nb" href="https://neatlab.app/rollkeep/support/nb/">
+<link rel="alternate" hreflang="fi" href="https://neatlab.app/rollkeep/support/fi/">
+<link rel="alternate" hreflang="cs" href="https://neatlab.app/rollkeep/support/cs/">
+<link rel="alternate" hreflang="sk" href="https://neatlab.app/rollkeep/support/sk/">
+<link rel="alternate" hreflang="hu" href="https://neatlab.app/rollkeep/support/hu/">
+<link rel="alternate" hreflang="ro" href="https://neatlab.app/rollkeep/support/ro/">
+<link rel="alternate" hreflang="bg" href="https://neatlab.app/rollkeep/support/bg/">
+<link rel="alternate" hreflang="el" href="https://neatlab.app/rollkeep/support/el/">
+<link rel="alternate" hreflang="hr" href="https://neatlab.app/rollkeep/support/hr/">
+<link rel="alternate" hreflang="sl" href="https://neatlab.app/rollkeep/support/sl/">
+<link rel="alternate" hreflang="et" href="https://neatlab.app/rollkeep/support/et/">
+<link rel="alternate" hreflang="lv" href="https://neatlab.app/rollkeep/support/lv/">
+<link rel="alternate" hreflang="lt" href="https://neatlab.app/rollkeep/support/lt/">
+<link rel="alternate" hreflang="ga" href="https://neatlab.app/rollkeep/support/ga/">
+<link rel="alternate" hreflang="mt" href="https://neatlab.app/rollkeep/support/mt/">
+<link rel="alternate" hreflang="uk" href="https://neatlab.app/rollkeep/support/uk/">
+<link rel="alternate" hreflang="x-default" href="https://neatlab.app/rollkeep/support/">
 <link rel="icon" href="/assets/favicon.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/style.css">
+<script>
+(function(){
+  var avail=["ko", "ja", "zh-hans", "zh-hant", "de", "fr", "es", "it", "pt", "nl", "pl", "sv", "da", "nb", "fi", "cs", "sk", "hu", "ro", "bg", "el", "hr", "sl", "et", "lv", "lt", "ga", "mt", "uk"], base="/rollkeep/support/";
+  if(/bot|crawl|spider|slurp|preview/i.test(navigator.userAgent))return;
+  var saved=null; try{saved=localStorage.getItem('nl_lang');}catch(e){}
+  function pick(){
+    if(saved&&(saved==='en'||avail.indexOf(saved)>=0))return saved;
+    var ls=navigator.languages&&navigator.languages.length?navigator.languages:[navigator.language||'en'];
+    for(var i=0;i<ls.length;i++){
+      var l=(ls[i]||'').toLowerCase();
+      if(l.indexOf('zh')===0)return /hant|-tw|-hk|-mo/.test(l)?'zh-hant':'zh-hans';
+      var p=l.split('-')[0];
+      if(p==='no'||p==='nn')p='nb';
+      if(p==='en')return 'en';
+      if(avail.indexOf(p)>=0)return p;
+    }
+    return 'en';
+  }
+  var t=pick();
+  if(t!=='en')location.replace(base+t+'/'+location.hash);
+})();
+</script>
 </head>
 <body>
 <header class="site"><div class="wrap">
   <a class="brand" href="/">neat<span>lab</span></a>
-  <nav class="lang"><a href="#en" aria-current="true">English</a><a href="#ko">한국어</a></nav>
+  <label class="lang"><span class="sr">Language</span>
+    <select id="lang" aria-label="Language"><option value="/rollkeep/support/" data-code="en" selected>English</option><option value="/rollkeep/support/ko/" data-code="ko">한국어</option><option value="/rollkeep/support/ja/" data-code="ja">日本語</option><option value="/rollkeep/support/zh-hans/" data-code="zh-hans">简体中文</option><option value="/rollkeep/support/zh-hant/" data-code="zh-hant">繁體中文</option><option value="/rollkeep/support/de/" data-code="de">Deutsch</option><option value="/rollkeep/support/fr/" data-code="fr">Français</option><option value="/rollkeep/support/es/" data-code="es">Español</option><option value="/rollkeep/support/it/" data-code="it">Italiano</option><option value="/rollkeep/support/pt/" data-code="pt">Português</option><option value="/rollkeep/support/nl/" data-code="nl">Nederlands</option><option value="/rollkeep/support/pl/" data-code="pl">Polski</option><option value="/rollkeep/support/sv/" data-code="sv">Svenska</option><option value="/rollkeep/support/da/" data-code="da">Dansk</option><option value="/rollkeep/support/nb/" data-code="nb">Norsk bokmål</option><option value="/rollkeep/support/fi/" data-code="fi">Suomi</option><option value="/rollkeep/support/cs/" data-code="cs">Čeština</option><option value="/rollkeep/support/sk/" data-code="sk">Slovenčina</option><option value="/rollkeep/support/hu/" data-code="hu">Magyar</option><option value="/rollkeep/support/ro/" data-code="ro">Română</option><option value="/rollkeep/support/bg/" data-code="bg">Български</option><option value="/rollkeep/support/el/" data-code="el">Ελληνικά</option><option value="/rollkeep/support/hr/" data-code="hr">Hrvatski</option><option value="/rollkeep/support/sl/" data-code="sl">Slovenščina</option><option value="/rollkeep/support/et/" data-code="et">Eesti</option><option value="/rollkeep/support/lv/" data-code="lv">Latviešu</option><option value="/rollkeep/support/lt/" data-code="lt">Lietuvių</option><option value="/rollkeep/support/ga/" data-code="ga">Gaeilge</option><option value="/rollkeep/support/mt/" data-code="mt">Malti</option><option value="/rollkeep/support/uk/" data-code="uk">Українська</option></select></label>
 </div></header>
 <main><div class="wrap">
-  <h1>Rollkeep Support</h1>
-  <p class="lede">Questions, problems, or ideas? Email <a href="mailto:support@neatlab.app">support@neatlab.app</a>. We usually reply within a few days.</p>
-
-  <section id="en">
-    <h2>Frequently asked questions</h2>
-    <h3>I deleted a photo by mistake. Can I get it back?</h3>
-    <p>Yes. Rollkeep deletes through iOS, so deleted items go to the Photos app’s <b>Recently Deleted</b> album for 30 days. Open Photos › Albums › Recently Deleted and tap Recover.</p>
-    <h3>Why does the app say “about” next to storage sizes?</h3>
-    <p>On some iOS versions Rollkeep can’t read the exact file size, so it shows an estimate based on resolution and video length. On iOS 27 and later it shows the exact size when available.</p>
-    <h3>Will Rollkeep delete my favorites?</h3>
-    <p>Not unless you clearly choose to. Favorites that end up in the delete queue automatically are skipped, and Rollkeep asks before you queue a favorite yourself.</p>
-    <h3>How do I change ad or tracking choices?</h3>
-    <p>In Rollkeep, open Settings › Privacy &amp; Ads. Tracking can also be changed in iOS Settings › Privacy &amp; Security › Tracking. Features and the number of ads are the same either way.</p>
-    <h3>Where do ads appear?</h3>
-    <p>One banner on the Today screen and one on the Months screen, sometimes a full-screen ad after you finish a month and tap Home (at most twice a day), and a rewarded ad only if you choose to watch one. Never on the screens where you view, sort, or delete photos, or in widgets.</p>
-    <h3>Can I use Rollkeep with “Limited Access” to photos?</h3>
-    <p>Yes. Rollkeep works with the photos you select, and you can change the selection in the app at any time. Full access works best for month-by-month cleanup.</p>
-    <p class="muted"><a href="/rollkeep/privacy/">Privacy Policy</a></p>
-  </section>
-
-  <section id="ko">
-    <h2>자주 묻는 질문</h2>
-    <h3>사진을 실수로 지웠어요. 되살릴 수 있나요?</h3>
-    <p>네. Rollkeep은 iOS를 통해 삭제하므로 지운 항목은 사진 앱의 <b>최근 삭제된 항목</b>에 30일 동안 남아 있습니다. 사진 › 앨범 › 최근 삭제된 항목에서 복구하세요.</p>
-    <h3>용량 옆에 왜 '약'이 붙나요?</h3>
-    <p>일부 iOS 버전에서는 정확한 파일 크기를 읽을 수 없어 해상도와 영상 길이로 추정한 값을 보여 줍니다. iOS 27 이상에서는 가능한 경우 정확한 크기를 보여 줍니다.</p>
-    <h3>즐겨찾기 사진도 지워지나요?</h3>
-    <p>직접 고르지 않는 한 지워지지 않습니다. 자동으로 삭제 대기함에 들어간 즐겨찾기는 삭제에서 빠지고, 즐겨찾기를 직접 넣을 때는 먼저 확인합니다.</p>
-    <h3>광고·추적 설정은 어디서 바꾸나요?</h3>
-    <p>Rollkeep의 설정 › 개인정보·광고에서 바꿀 수 있습니다. 추적은 iOS 설정 › 개인정보 보호 및 보안 › 추적에서도 바꿀 수 있으며, 어느 쪽이든 기능과 광고 수는 같습니다.</p>
-    <h3>광고는 어디에 나오나요?</h3>
-    <p>오늘 화면과 월별 화면에 배너 하나씩, 한 달 정리를 마치고 '홈으로'를 누른 뒤 가끔 전면 광고(하루 최대 2회), 직접 고른 경우의 보상형 광고뿐입니다. 사진을 보고, 고르고, 지우는 화면과 위젯에는 나오지 않습니다.</p>
-    <h3>'선택한 사진만' 허용해도 쓸 수 있나요?</h3>
-    <p>네. 선택한 사진으로 동작하며 앱에서 언제든 범위를 바꿀 수 있습니다. 달별 정리에는 전체 접근이 가장 편합니다.</p>
-    <p>문의: <a href="mailto:support@neatlab.app">support@neatlab.app</a> · <a href="/rollkeep/privacy/ko/">개인정보 처리방침</a></p>
-  </section>
+<h1>Rollkeep Support</h1>
+<p class="lede">Questions, problems, or ideas? Email <a href="mailto:support@neatlab.app">support@neatlab.app</a>. We usually reply within a few days.</p>
+<h2>Frequently asked questions</h2>
+<h3>I deleted a photo by mistake. Can I get it back?</h3>
+<p>Yes. Rollkeep deletes through iOS, so deleted items go to the Photos app’s “Recently Deleted” album for 30 days. Open Photos › Albums › Recently Deleted and tap Recover.</p>
+<h3>Why does the app say “about” next to storage sizes?</h3>
+<p>On some iOS versions Rollkeep can’t read the exact file size, so it shows an estimate based on resolution and video length. On iOS 27 and later it shows the exact size when available.</p>
+<h3>Will Rollkeep delete my favorites?</h3>
+<p>Not unless you clearly choose to. Favorites that end up in the delete queue automatically are skipped, and Rollkeep asks before you queue a favorite yourself.</p>
+<h3>How do I change ad or tracking choices?</h3>
+<p>In Rollkeep, open Settings › Privacy &amp; Ads. Tracking can also be changed in iOS Settings › Privacy &amp; Security › Tracking. Features and the number of ads are the same either way.</p>
+<h3>Where do ads appear?</h3>
+<p>One banner on the Today screen and one on the Months screen, sometimes a full-screen ad after you finish a month and tap Home (at most twice a day), and a rewarded ad only if you choose to watch one. Never on the screens where you view, sort, or delete photos, or in widgets.</p>
+<h3>Can I use Rollkeep with “Limited Access” to photos?</h3>
+<p>Yes. Rollkeep works with the photos you select, and you can change the selection in the app at any time. Full access works best for month-by-month cleanup.</p>
+<p class="muted"><a href="/rollkeep/privacy/">Privacy Policy</a></p>
 </div></main>
 <footer class="site"><div class="wrap">
-  <a href="/rollkeep/">Rollkeep</a><a href="/">Neatlab</a>
+  <a href="/rollkeep/">Rollkeep</a><a href="/rollkeep/support/">Support</a><a href="/rollkeep/privacy/">Privacy Policy</a>
   <div>© 2026 Neatlab</div>
 </div></footer>
+<script>
+document.getElementById('lang').addEventListener('change',function(e){
+  var o=e.target.selectedOptions[0]; try{localStorage.setItem('nl_lang',o.dataset.code);}catch(_){}
+  location.href=o.value;
+});
+</script>
 </body>
 </html>

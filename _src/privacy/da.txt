@@ -1,0 +1,75 @@
+Privatlivspolitik for Rollkeep
+
+Gældende fra: 2026-11-13
+
+Denne privatlivspolitik forklarer, hvordan iOS-appen Rollkeep (»Rollkeep«, »appen«) behandler oplysninger. Rollkeep er udviklet af Neatlab (»vi«, »os«).
+
+1. Resumé
+- Rollkeep kræver ingen konto og kører ingen egne servere.
+- Dine billeder, videoer, analyseresultater og oprydningshistorik bliver på din iPhone. Vi modtager dem aldrig, og de bliver aldrig brugt til reklamer.
+- Rollkeep viser reklamer via Google AdMob. Google kan indsamle visse enheds- og brugsoplysninger for at vise og måle reklamer som beskrevet i afsnit 4.
+- Du kan vælge, om du vil tillade reklamesporing, og appen fungerer på samme måde uanset dit valg.
+
+2. Oplysninger, vi ikke indsamler
+Vi indsamler ikke, gemmer ikke og har ikke adgang til:
+- dine billeder eller videoer eller deres indhold eller metadata;
+- resultaterne af billedanalyse på enheden (f.eks. grupper af lignende billeder eller skarphedsscorer);
+- din oprydningshistorik, dine indstillinger eller dine fremskridt;
+- dit navn, din e-mailadresse, dit telefonnummer eller dine kontakter.
+
+3. Adgang til fotobiblioteket og behandling på enheden
+Rollkeep beder først om adgang til dit fotobibliotek, når du trykker på »Begynd at rydde op i billeder«. Vi bruger kun denne adgang til at vise dine billeder måned for måned på din iPhone, til at gruppere serier, lignende billeder, skærmbilleder og store videoer og til at slette billeder eller markere dem som favoritter, når du beder os om det.
+- Al billedbehandling foregår på din enhed. Billeder bliver ikke uploadet nogen steder.
+- Rollkeep gemmer kun referencer (id'er) til billeder på enheden og dine beslutninger (behold, sletningskø, favorit), så appen kan huske dine fremskridt.
+- Sletning af billeder kræver altid din bekræftelse i en iOS-systemdialogboks. Slettede emner flyttes til albummet »Senest slettet« i appen Fotos, hvor de kan gendannes i 30 dage.
+- Du kan til enhver tid ændre eller tilbagekalde adgangen til billeder i iOS under Indstillinger > Anonymitet & sikkerhed > Fotos eller ved at vælge »Begrænset adgang«.
+
+4. Reklamer (Google AdMob)
+Rollkeep er gratis og finansieres af reklamer fra Google AdMob, en tjeneste fra Google LLC (eller Google Ireland Limited for brugere i Det Europæiske Økonomiske Samarbejdsområde, Storbritannien og Schweiz). Vi deler ikke dine billeder, billedoplysninger eller din oprydningshistorik med Google eller andre reklamepartnere.
+
+Når der anmodes om reklamer, kan Google Mobile Ads SDK i appen ifølge Googles oplysninger indsamle følgende:
+- Enheds-id'er, f.eks. reklame-id'et (IDFA, kun hvis du tillader sporing) eller andre id'er, der er knyttet til appen eller udvikleren;
+- Omtrentlig placering, f.eks. udledt af din IP-adresse;
+- Reklamedata, f.eks. hvilke reklamer du har set;
+- Data om produktinteraktion, f.eks. appstarter, tryk og videovisninger;
+- Diagnosticeringsdata, f.eks. nedbrudslogfiler og ydeevnedata (f.eks. starttid, hvor ofte appen hænger, eller energiforbrug).
+
+Google bruger disse oplysninger til at vise reklamer, måle reklamers effekt, forhindre svindel og forbedre sine tjenester. Hvis du tillader sporing, kan reklamerne blive tilpasset dine interesser. Hvis du ikke gør, kan Google stadig vise ikke-tilpassede reklamer, som kan bruge begrænsede data såsom omtrentlig placering og appens kontekst.
+
+Få mere at vide:
+- Googles privatlivspolitik: https://policies.google.com/privacy
+- Sådan bruger Google oplysninger fra websites eller apps, der bruger Googles tjenester: https://policies.google.com/technologies/partner-sites
+- Sådan bruger Google reklamedata: https://policies.google.com/technologies/ads
+
+Hvor reklamer vises: ét banner på skærmen I dag og ét på skærmen Måneder; nogle gange en fuldskærmsreklame, når du har gjort en måned færdig og trykker på Hjem (højst to gange om dagen); og en belønningsreklame kun hvis du selv vælger at se en for at få et ekstra sæt grupper. Reklamer vises aldrig på skærme, hvor du ser, sorterer eller sletter billeder, og aldrig i widgets.
+
+5. Dine valg
+- App Tracking Transparency: Rollkeep beder om tilladelse, før der foregår nogen form for sporing. Du kan til enhver tid ændre dit valg i iOS under Indstillinger > Anonymitet & sikkerhed > Sporing. Funktionerne og antallet af reklamer er de samme uanset hvad.
+- Samtykke (EØS, Storbritannien, Schweiz og andre regioner, hvor det er påkrævet): Rollkeep bruger Googles User Messaging Platform til at bede om dit samtykke. Du kan til enhver tid gennemse eller ændre dine valg i appen under Indstillinger > Privatliv og reklamer.
+- Placering: Rollkeep beder ikke om adgang til enhedens lokalitetstjenester. Google kan udlede en omtrentlig placering af din IP-adresse.
+- Tilpassede reklamer: Du kan også begrænse tilpasning af reklamer i dine Google-indstillinger, hvor det er muligt.
+
+6. Retsgrundlag (EØS, Storbritannien, Schweiz)
+Hvor GDPR eller lignende lovgivning gælder, bygger Googles reklamerelaterede behandling på dit samtykke, der indhentes via Googles samtykkemeddelelse, eller på andre retsgrundlag, som Google beskriver i sin egen privatlivspolitik. Vi behandler ikke dine personoplysninger på vores egne servere.
+
+7. Data, der gemmes på din enhed, og hvordan du sletter dem
+Dine indstillinger, fremskridt, sletningskø, oprydningstotaler og widgetdata gemmes kun på din enhed. Du kan slette dem under Indstillinger > Nulstil oprydningshistorik (det sletter ingen billeder) eller ved at slette appen. Oplysninger, som Google indsamler, opbevares i henhold til Googles politikker.
+
+8. Børn
+Rollkeep er ikke rettet mod børn under 13 år (eller den minimumsalder, der gælder i dit land). Vi indsamler ikke bevidst personoplysninger fra børn. Appens aldersklassificering for reklameindhold er indstillet til at være egnet for et bredt publikum.
+
+9. Dine rettigheder
+Afhængigt af hvor du bor (f.eks. i henhold til GDPR eller amerikanske delstaters privatlivslovgivning), kan du have ret til at få indsigt i, berigtige eller slette dine personoplysninger, gøre indsigelse mod behandlingen af dem eller fravælge målrettet annoncering. Da vi ikke opbevarer dine personoplysninger, håndteres anmodninger om reklamedata bedst via Google (se linkene i afsnit 4) og valgene i afsnit 5. Du kan også kontakte os, så hjælper vi, hvor vi kan.
+
+10. Internationale overførsler
+Google kan behandle oplysninger i USA og andre lande. Se Googles privatlivspolitik for oplysninger om de sikkerhedsforanstaltninger, Google anvender.
+
+11. Sikkerhed
+Dine billeder og oprydningsdata forlader aldrig din enhed via Rollkeep. Reklamerelaterede data håndteres af Google i henhold til Googles sikkerhedspraksis.
+
+12. Ændringer i denne politik
+Hvis vi ændrer denne politik, opdaterer vi ikrafttrædelsesdatoen på denne side, og ved væsentlige ændringer nævner vi det i appens versionsnoter.
+
+13. Kontakt
+Neatlab
+E-mail: support@neatlab.app

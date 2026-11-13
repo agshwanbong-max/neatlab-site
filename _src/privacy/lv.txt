@@ -1,0 +1,75 @@
+Rollkeep privātuma politika
+
+Spēkā stāšanās datums: 2026-11-13
+
+Šī privātuma politika skaidro, kā iOS lietotne Rollkeep („Rollkeep“, „lietotne“) apstrādā informāciju. Rollkeep izstrādā Neatlab („mēs“).
+
+1. Kopsavilkums
+- Rollkeep nav nepieciešams konts, un tai nav savu serveru.
+- Jūsu fotoattēli, video, analīzes rezultāti un kārtošanas vēsture paliek jūsu iPhone. Mēs tos nekad nesaņemam, un tie nekad netiek izmantoti reklāmām.
+- Rollkeep rāda reklāmas, izmantojot Google AdMob. Google var vākt noteiktu informāciju par ierīci un lietojumu, lai rādītu un novērtētu reklāmas, kā aprakstīts 4. sadaļā.
+- Jūs varat izvēlēties, vai atļaut reklāmu izsekošanu, un lietotne abos gadījumos darbojas vienādi.
+
+2. Informācija, ko mēs nevācam
+Mēs nevācam, neglabājam un mums nav piekļuves:
+- jūsu fotoattēliem vai video, to saturam vai metadatiem;
+- ierīcē veiktās fotoattēlu analīzes rezultātiem (piemēram, līdzīgu fotoattēlu grupām vai asuma novērtējumiem);
+- jūsu kārtošanas vēsturei, iestatījumiem vai progresam;
+- jūsu vārdam, e-pasta adresei, tālruņa numuram vai kontaktpersonām.
+
+3. Piekļuve fotoattēlu bibliotēkai un apstrāde ierīcē
+Rollkeep lūdz piekļuvi jūsu fotoattēlu bibliotēkai tikai pēc tam, kad pieskaraties „Sākt fotoattēlu kārtošanu“. Mēs izmantojam šo piekļuvi tikai tam, lai jūsu iPhone parādītu jūsu fotoattēlus pa mēnešiem, sagrupētu sērijas, līdzīgus fotoattēlus, ekrānuzņēmumus un lielus video, kā arī lai dzēstu fotoattēlus vai pievienotu tos izlasei, kad jūs to lūdzat.
+- Visa fotoattēlu apstrāde notiek jūsu ierīcē. Fotoattēli netiek nekur augšupielādēti.
+- Rollkeep saglabā tikai ierīcē esošas atsauces (identifikatorus) uz fotoattēliem un jūsu lēmumus (paturēt, dzēšanas rinda, izlase), lai atcerētos jūsu progresu.
+- Fotoattēlu dzēšanai vienmēr nepieciešams jūsu apstiprinājums iOS sistēmas dialoglodziņā. Dzēstie vienumi tiek pārvietoti uz lietotnes Photos albumu „Nesen dzēstie“ (Recently Deleted), kur tos var atgūt 30 dienu laikā.
+- Jūs jebkurā laikā varat mainīt vai atsaukt piekļuvi fotoattēliem iOS iestatījumos: Iestatījumi > Privātums un drošība > Photos (Settings > Privacy & Security > Photos) vai izvēloties „Ierobežota piekļuve“ (Limited Access).
+
+4. Reklāmas (Google AdMob)
+Rollkeep ir bez maksas, un to atbalsta reklāmas, ko nodrošina Google AdMob — Google LLC pakalpojums (Eiropas Ekonomikas zonas, Apvienotās Karalistes un Šveices lietotājiem — Google Ireland Limited). Mēs nekopīgojam jūsu fotoattēlus, informāciju par fotoattēliem vai kārtošanas vēsturi ar Google vai citiem reklāmas partneriem.
+
+Kad tiek pieprasītas reklāmas, lietotnē iekļautais Google Mobile Ads SDK saskaņā ar Google sniegto informāciju var vākt šādu informāciju:
+- ierīces identifikatorus, piemēram, reklāmas identifikatoru (IDFA, tikai tad, ja atļaujat izsekošanu) vai citus lietotnes vai izstrādātāja līmeņa identifikatorus;
+- aptuvenu (vispārīgu) atrašanās vietu, piemēram, noteiktu pēc jūsu IP adreses;
+- reklāmas datus, piemēram, reklāmas, kuras esat redzējuši;
+- datus par mijiedarbību ar produktu, piemēram, lietotnes palaišanas reizes, pieskārienus un video skatījumus;
+- diagnostikas datus, piemēram, avāriju žurnālus un veiktspējas datus (piemēram, palaišanas laiku, sastingšanas biežumu vai enerģijas patēriņu).
+
+Google izmanto šo informāciju, lai rādītu reklāmas, novērtētu reklāmu efektivitāti, novērstu krāpšanu un uzlabotu savus pakalpojumus. Ja atļaujat izsekošanu, reklāmas var tikt personalizētas atbilstoši jūsu interesēm. Ja neatļaujat, Google joprojām var rādīt nepersonalizētas reklāmas, kurās var izmantot ierobežotus datus, piemēram, aptuvenu atrašanās vietu un lietotnes kontekstu.
+
+Uzziniet vairāk:
+- Google privātuma politika: https://policies.google.com/privacy
+- Kā Google izmanto informāciju no vietnēm vai lietotnēm, kas izmanto tā pakalpojumus: https://policies.google.com/technologies/partner-sites
+- Kā Google izmanto reklāmas datus: https://policies.google.com/technologies/ads
+
+Kur tiek rādītas reklāmas: viens baneris ekrānā Šodien un viens ekrānā Mēneši; dažreiz pilnekrāna reklāma pēc tam, kad pabeidzat mēnesi un pieskaraties Sākums (ne vairāk kā divreiz dienā); un atlīdzības reklāma tikai tad, ja izvēlaties to skatīties, lai iegūtu papildu grupu komplektu. Reklāmas nekad netiek rādītas ekrānos, kuros skatāt, kārtojat vai dzēšat fotoattēlus, un logrīkos.
+
+5. Jūsu izvēles
+- Lietotņu izsekošanas pārredzamība (App Tracking Transparency): Rollkeep lūdz atļauju pirms jebkādas izsekošanas. Savu izvēli jebkurā laikā varat mainīt iOS iestatījumos: Iestatījumi > Privātums un drošība > Izsekošana (Settings > Privacy & Security > Tracking). Funkcijas un reklāmu skaits abos gadījumos ir vienādi.
+- Piekrišana (EEZ, Apvienotā Karaliste, Šveice un citi reģioni, kur tā ir nepieciešama): Rollkeep izmanto Google User Messaging Platform, lai lūgtu jūsu piekrišanu. Savas izvēles jebkurā laikā varat pārskatīt vai mainīt lietotnē sadaļā Iestatījumi > Privātums un reklāmas.
+- Atrašanās vieta: Rollkeep nepieprasa piekļuvi jūsu ierīces atrašanās vietas pakalpojumiem. Google var noteikt aptuvenu atrašanās vietu pēc jūsu IP adreses.
+- Personalizētas reklāmas: reklāmu personalizāciju varat ierobežot arī savos Google iestatījumos, ja tas ir pieejams.
+
+6. Juridiskais pamats (EEZ, Apvienotā Karaliste, Šveice)
+Ja ir piemērojama VDAR vai līdzīgi tiesību akti, Google ar reklāmām saistītā apstrāde balstās uz jūsu piekrišanu, kas iegūta, izmantojot Google piekrišanas paziņojumu, vai uz citiem juridiskajiem pamatiem, kurus Google apraksta savā privātuma politikā. Mēs neapstrādājam jūsu personas datus savos serveros.
+
+7. Jūsu ierīcē glabātie dati un to dzēšana
+Jūsu iestatījumi, progress, dzēšanas rinda, kārtošanas kopsummas un logrīku dati tiek glabāti tikai jūsu ierīcē. Tos varat izdzēst sadaļā Iestatījumi > Atiestatīt kārtošanas vēsturi (tas neizdzēš fotoattēlus) vai izdzēšot lietotni. Google savāktā informācija tiek glabāta saskaņā ar Google politikām.
+
+8. Bērni
+Rollkeep nav paredzēta bērniem līdz 13 gadu vecumam (vai līdz jūsu valstī noteiktajam minimālajam vecumam). Mēs apzināti nevācam bērnu personas informāciju. Lietotnes reklāmu satura vērtējums ir iestatīts kā piemērots plašai auditorijai.
+
+9. Jūsu tiesības
+Atkarībā no jūsu dzīvesvietas (piemēram, saskaņā ar VDAR vai ASV štatu privātuma likumiem) jums var būt tiesības piekļūt saviem personas datiem, tos labot, dzēst vai iebilst pret to apstrādi, vai atteikties no mērķētas reklāmas. Tā kā mēs neglabājam jūsu personas datus, pieprasījumus par reklāmas datiem vislabāk risināt ar Google starpniecību (skatiet saites 4. sadaļā) un izmantojot 5. sadaļā aprakstītās izvēles. Jūs varat arī sazināties ar mums, un mēs palīdzēsim, cik spēsim.
+
+10. Starptautiska datu pārsūtīšana
+Google var apstrādāt informāciju Amerikas Savienotajās Valstīs un citās valstīs. Sīkāku informāciju par tā aizsardzības pasākumiem skatiet Google privātuma politikā.
+
+11. Drošība
+Jūsu fotoattēli un kārtošanas dati, izmantojot Rollkeep, nekad nepamet jūsu ierīci. Ar reklāmām saistītos datus Google apstrādā saskaņā ar savu drošības praksi.
+
+12. Izmaiņas šajā politikā
+Ja mēs mainīsim šo politiku, mēs atjaunināsim spēkā stāšanās datumu šajā lapā, un būtisku izmaiņu gadījumā par tām paziņosim lietotnes laidiena piezīmēs.
+
+13. Kontakti
+Neatlab
+E-pasts: support@neatlab.app

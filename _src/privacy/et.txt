@@ -1,0 +1,75 @@
+Rollkeepi privaatsuspoliitika
+
+Jõustumise kuupäev: 2026-11-13
+
+See privaatsuspoliitika selgitab, kuidas iOS-i rakendus Rollkeep („Rollkeep“, „rakendus“) teavet käsitleb. Rollkeepi arendab Neatlab („meie“).
+
+1. Kokkuvõte
+- Rollkeep ei nõua kontot ega kasuta oma servereid.
+- Sinu fotod, videod, analüüsitulemused ja korrastamise ajalugu jäävad sinu iPhone’i. Me ei saa neid kunagi kätte ja neid ei kasutata kunagi reklaamiks.
+- Rollkeep näitab reklaame Google AdMobi kaudu. Google võib reklaamide näitamiseks ja mõõtmiseks koguda teatud seadme- ja kasutusteavet, nagu on kirjeldatud 4. jaotises.
+- Saad valida, kas lubada reklaamide jälgimist, ja rakendus töötab mõlemal juhul ühtemoodi.
+
+2. Teave, mida me ei kogu
+Me ei kogu ega säilita järgmist teavet ega oma sellele juurdepääsu:
+- sinu fotod või videod ega nende sisu või metaandmed;
+- seadmes tehtud fotoanalüüsi tulemused (näiteks sarnaste fotode rühmad või teravushinnangud);
+- sinu korrastamise ajalugu, seaded või edenemine;
+- sinu nimi, e-posti aadress, telefoninumber või kontaktid.
+
+3. Juurdepääs fototeegile ja töötlemine seadmes
+Rollkeep küsib juurdepääsu sinu fototeegile alles pärast seda, kui puudutad nuppu „Alusta fotode korrastamist“. Kasutame seda juurdepääsu ainult selleks, et näidata sinu fotosid sinu iPhone’is kuude kaupa, rühmitada sarivõtteid, sarnaseid fotosid, ekraanipilte ja suuri videoid ning kustutada fotosid või märkida neid lemmikuks, kui sa seda palud.
+- Kogu fotode töötlemine toimub sinu seadmes. Fotosid ei laadita kuhugi üles.
+- Rollkeep salvestab ainult seadmesisesed viited (identifikaatorid) fotodele ja sinu otsused (alles jätta, kustutusjärjekord, lemmik), et sinu edenemist meeles pidada.
+- Fotode kustutamine nõuab alati sinu kinnitust iOS-i süsteemidialoogis. Kustutatud üksused liiguvad rakenduse Fotod (Photos) albumisse „Hiljuti kustutatud“ (Recently Deleted), kust neid saab 30 päeva jooksul taastada.
+- Saad fotodele juurdepääsu igal ajal muuta või tühistada iOS-i seadetes: Seaded > Privaatsus ja turvalisus > Fotod (Settings > Privacy & Security > Photos) või valides „Piiratud juurdepääs“ (Limited Access).
+
+4. Reklaam (Google AdMob)
+Rollkeep on tasuta ja seda toetavad reklaamid, mida pakub Google AdMob – ettevõtte Google LLC teenus (Euroopa Majanduspiirkonna, Ühendkuningriigi ja Šveitsi kasutajate puhul Google Ireland Limited). Me ei jaga sinu fotosid, fotodega seotud teavet ega korrastamise ajalugu Google’i ega ühegi teise reklaamipartneriga.
+
+Reklaamide päringu korral võib rakenduses olev Google Mobile Ads SDK Google’i avalikustatud teabe kohaselt koguda järgmist teavet:
+- seadme identifikaatorid, näiteks reklaamiidentifikaator (IDFA, ainult siis, kui lubad jälgimise) või muud rakenduse või arendaja tasemel identifikaatorid;
+- ligikaudne (umbkaudne) asukoht, mis on tuletatud näiteks sinu IP-aadressist;
+- reklaamiandmed, näiteks sulle näidatud reklaamid;
+- tootega suhtlemise andmed, näiteks rakenduse käivitamised, puudutused ja videovaatamised;
+- diagnostikaandmed, näiteks krahhilogid ja jõudlusandmed (näiteks käivitusaeg, hangumiste sagedus või energiakasutus).
+
+Google kasutab seda teavet reklaamide näitamiseks, reklaamide toimivuse mõõtmiseks, pettuste ennetamiseks ja oma teenuste parandamiseks. Kui lubad jälgimise, võidakse reklaame isikupärastada sinu huvide põhjal. Kui sa seda ei luba, võib Google siiski näidata isikupärastamata reklaame, mis võivad kasutada piiratud andmeid, näiteks ligikaudset asukohta ja rakenduse konteksti.
+
+Lisateave:
+- Google’i privaatsuspoliitika: https://policies.google.com/privacy
+- Kuidas Google kasutab teavet saitidelt või rakendustest, mis kasutavad tema teenuseid: https://policies.google.com/technologies/partner-sites
+- Kuidas Google kasutab reklaamiandmeid: https://policies.google.com/technologies/ads
+
+Kus reklaamid kuvatakse: üks bänner ekraanil Täna ja üks ekraanil Kuud; mõnikord täisekraanreklaam pärast seda, kui oled kuu lõpetanud ja puudutad nuppu Avaleht (kõige rohkem kaks korda päevas); ning preemiareklaam ainult siis, kui otsustad seda vaadata, et saada lisarühmade komplekt. Reklaame ei kuvata kunagi ekraanidel, kus fotosid vaatad, sorteerid või kustutad, ega vidinates.
+
+5. Sinu valikud
+- Rakenduse jälgimise läbipaistvus (App Tracking Transparency): Rollkeep küsib enne mis tahes jälgimist sinu luba. Saad oma valikut igal ajal muuta iOS-i seadetes: Seaded > Privaatsus ja turvalisus > Jälgimine (Settings > Privacy & Security > Tracking). Funktsioonid ja reklaamide arv on mõlemal juhul samad.
+- Nõusolek (EMP, Ühendkuningriik, Šveits ja muud piirkonnad, kus see on nõutav): Rollkeep kasutab sinu nõusoleku küsimiseks Google’i lahendust User Messaging Platform. Saad oma valikud igal ajal üle vaadata või neid muuta rakenduses jaotises Seaded > Privaatsus ja reklaamid.
+- Asukoht: Rollkeep ei küsi juurdepääsu sinu seadme asukohateenustele. Google võib ligikaudse asukoha tuletada sinu IP-aadressist.
+- Isikupärastatud reklaamid: saad reklaamide isikupärastamist piirata ka oma Google’i seadetes, kus see on võimalik.
+
+6. Õiguslikud alused (EMP, Ühendkuningriik, Šveits)
+Kui kohaldub isikuandmete kaitse üldmäärus (GDPR) või sarnased seadused, tugineb Google’i reklaamiga seotud töötlemine sinu nõusolekule, mis on kogutud Google’i nõusolekuteate kaudu, või muudele õiguslikele alustele, mida Google kirjeldab oma privaatsuspoliitikas. Me ei töötle sinu isikuandmeid oma serverites.
+
+7. Sinu seadmes salvestatud andmed ja nende kustutamine
+Sinu seaded, edenemine, kustutusjärjekord, korrastamise kogusummad ja vidinate andmed salvestatakse ainult sinu seadmesse. Saad need kustutada jaotises Seaded > Lähtesta korrastamise ajalugu (see ei kustuta fotosid) või rakenduse kustutamisega. Google’i kogutud teavet säilitatakse Google’i põhimõtete kohaselt.
+
+8. Lapsed
+Rollkeep ei ole suunatud alla 13-aastastele lastele (ega lastele, kes on nooremad sinu riigis nõutavast miinimumvanusest). Me ei kogu teadlikult lastelt isikuandmeid. Rakenduse reklaamisisu vanusereiting on seatud üldisele publikule sobivaks.
+
+9. Sinu õigused
+Olenevalt sinu elukohast (näiteks GDPR-i või USA osariikide privaatsusseaduste alusel) võivad sul olla õigused oma isikuandmetega tutvuda, neid parandada või kustutada, esitada vastuväiteid nende töötlemisele või loobuda sihitud reklaamist. Kuna meil ei ole sinu isikuandmeid, on reklaamiandmetega seotud taotlusi kõige parem esitada Google’i kaudu (vt linke 4. jaotises) ja kasutada 5. jaotises kirjeldatud valikuid. Võid ka meiega ühendust võtta ja me aitame, kus saame.
+
+10. Rahvusvahelised edastused
+Google võib teavet töödelda Ameerika Ühendriikides ja muudes riikides. Üksikasjad tema kaitsemeetmete kohta leiad Google’i privaatsuspoliitikast.
+
+11. Turvalisus
+Sinu fotod ja korrastamisandmed ei lahku Rollkeepi kaudu kunagi sinu seadmest. Reklaamiga seotud andmeid käsitleb Google oma turvatavade kohaselt.
+
+12. Selle poliitika muudatused
+Kui me seda poliitikat muudame, uuendame sellel lehel jõustumise kuupäeva ja oluliste muudatuste korral mainime seda rakenduse väljalaskemärkmetes.
+
+13. Kontakt
+Neatlab
+E-post: support@neatlab.app

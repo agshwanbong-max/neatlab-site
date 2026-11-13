@@ -1,0 +1,75 @@
+Politique de confidentialité de Rollkeep
+
+Date d’entrée en vigueur : 2026-11-13
+
+La présente politique de confidentialité explique comment l’app iOS Rollkeep (« Rollkeep », « l’app ») traite les informations. Rollkeep est développée par Neatlab (« nous »).
+
+1. Résumé
+- Rollkeep ne nécessite aucun compte et n’exploite aucun serveur propre.
+- Vos photos, vidéos, résultats d’analyse et historique de tri restent sur votre iPhone. Nous ne les recevons jamais et ils ne sont jamais utilisés à des fins publicitaires.
+- Rollkeep affiche des publicités via Google AdMob. Google peut collecter certaines informations relatives à l’appareil et à l’utilisation afin d’afficher et de mesurer les publicités, comme décrit à la section 4.
+- Vous pouvez choisir d’autoriser ou non le suivi publicitaire, et l’app fonctionne de la même façon dans les deux cas.
+
+2. Informations que nous ne collectons pas
+Nous ne collectons pas, ne conservons pas et n’avons pas accès à :
+- vos photos ou vidéos, ni à leur contenu ou à leurs métadonnées ;
+- les résultats de l’analyse des photos effectuée sur l’appareil (comme les groupes de photos similaires ou les scores de netteté) ;
+- votre historique de tri, vos réglages ou votre progression ;
+- votre nom, votre adresse e-mail, votre numéro de téléphone ou vos contacts.
+
+3. Accès à la photothèque et traitement sur l’appareil
+Rollkeep ne demande l’accès à votre photothèque qu’après que vous avez touché « Commencer le tri des photos ». Nous utilisons cet accès uniquement pour afficher vos photos mois par mois sur votre iPhone, pour regrouper les rafales, les photos similaires, les captures d’écran et les vidéos volumineuses, et pour supprimer des photos ou les ajouter aux favoris lorsque vous nous le demandez.
+- Tout le traitement des photos a lieu sur votre appareil. Les photos ne sont envoyées nulle part.
+- Rollkeep enregistre uniquement, sur l’appareil, des références (identifiants) aux photos et vos décisions (garder, liste de suppression, favori) afin de mémoriser votre progression.
+- La suppression de photos nécessite toujours votre confirmation dans une fenêtre système d’iOS. Les éléments supprimés sont déplacés dans l’album « Supprimés récemment » de l’app Photos, où ils peuvent être récupérés pendant 30 jours.
+- Vous pouvez modifier ou retirer l’accès aux photos à tout moment dans Réglages iOS > Confidentialité et sécurité > Photos, ou en choisissant « Accès limité ».
+
+4. Publicité (Google AdMob)
+Rollkeep est gratuite et financée par des publicités fournies par Google AdMob, un service de Google LLC (ou de Google Ireland Limited pour les utilisateurs de l’Espace économique européen, du Royaume-Uni et de la Suisse). Nous ne partageons pas vos photos, les informations sur vos photos ni votre historique de tri avec Google ou tout autre partenaire publicitaire.
+
+Lorsque des publicités sont demandées, le SDK Google Mobile Ads intégré à l’app peut collecter les informations suivantes, selon ce qu’indique Google :
+- des identifiants d’appareil, comme l’identifiant publicitaire (IDFA, uniquement si vous autorisez le suivi) ou d’autres identifiants propres à l’app ou au développeur ;
+- la localisation approximative, par exemple déduite de votre adresse IP ;
+- des données publicitaires, comme les publicités que vous avez vues ;
+- des données d’interaction avec le produit, comme les ouvertures de l’app, les touchers et les visionnages de vidéos ;
+- des données de diagnostic, comme les journaux de plantage et les données de performance (par exemple, le temps de lancement, le taux de blocage ou la consommation d’énergie).
+
+Google utilise ces informations pour afficher des publicités, mesurer leurs performances, prévenir la fraude et améliorer ses services. Si vous autorisez le suivi, les publicités peuvent être personnalisées en fonction de vos centres d’intérêt. Dans le cas contraire, Google peut tout de même afficher des publicités non personnalisées, qui peuvent utiliser des données limitées comme la localisation approximative et le contexte de l’app.
+
+En savoir plus :
+- Règles de confidentialité de Google : https://policies.google.com/privacy
+- Comment Google utilise les informations des sites ou applications qui utilisent ses services : https://policies.google.com/technologies/partner-sites
+- Comment Google utilise les données publicitaires : https://policies.google.com/technologies/ads
+
+Emplacement des publicités : une bannière sur l’écran « Aujourd’hui » et une sur l’écran « Mois » ; parfois une publicité plein écran lorsque vous terminez un mois et touchez « Accueil » (deux fois par jour au maximum) ; et une publicité avec récompense uniquement si vous choisissez d’en regarder une pour obtenir une série de groupes supplémentaire. Les publicités n’apparaissent jamais sur les écrans où vous regardez, triez ou supprimez vos photos, ni dans les widgets.
+
+5. Vos choix
+- Transparence du suivi des apps : Rollkeep vous demande l’autorisation avant tout suivi. Vous pouvez modifier votre choix à tout moment dans Réglages iOS > Confidentialité et sécurité > Suivi. Les fonctionnalités et le nombre de publicités restent les mêmes dans tous les cas.
+- Consentement (EEE, Royaume-Uni, Suisse et autres régions où il est requis) : Rollkeep utilise la User Messaging Platform de Google pour recueillir votre consentement. Vous pouvez consulter ou modifier vos choix à tout moment dans l’app, sous Réglages > Confidentialité et publicité.
+- Localisation : Rollkeep ne demande pas l’accès au service de localisation de votre appareil. Google peut déduire une localisation approximative à partir de votre adresse IP.
+- Publicités personnalisées : vous pouvez également limiter la personnalisation des publicités dans vos paramètres Google, lorsque cette option est disponible.
+
+6. Bases juridiques (EEE, Royaume-Uni, Suisse)
+Lorsque le RGPD ou des lois similaires s’appliquent, le traitement lié à la publicité effectué par Google repose sur votre consentement, recueilli au moyen du message de consentement de Google, ou sur d’autres bases juridiques que Google décrit dans ses propres règles de confidentialité. Nous ne traitons pas vos données personnelles sur nos propres serveurs.
+
+7. Données stockées sur votre appareil et comment les supprimer
+Vos réglages, votre progression, votre liste de suppression, vos totaux de tri et les données des widgets sont stockés uniquement sur votre appareil. Vous pouvez les supprimer dans Réglages > Réinitialiser l’historique de tri (cela ne supprime aucune photo) ou en supprimant l’app. Les informations collectées par Google sont conservées conformément aux règles de Google.
+
+8. Enfants
+Rollkeep ne s’adresse pas aux enfants de moins de 13 ans (ou de l’âge minimum requis dans votre pays). Nous ne collectons pas sciemment d’informations personnelles auprès d’enfants. La classification du contenu publicitaire de l’app est réglée pour convenir à un public général.
+
+9. Vos droits
+Selon votre lieu de résidence (par exemple en vertu du RGPD ou des lois sur la protection de la vie privée de certains États américains), vous pouvez disposer de droits d’accès, de rectification et d’effacement de vos données personnelles, du droit de vous opposer à leur traitement, ou du droit de refuser la publicité ciblée. Comme nous ne détenons pas vos données personnelles, les demandes concernant les données publicitaires sont mieux traitées auprès de Google (voir les liens de la section 4) et au moyen des choix décrits à la section 5. Vous pouvez aussi nous contacter : nous vous aiderons dans la mesure du possible.
+
+10. Transferts internationaux
+Google peut traiter des informations aux États-Unis et dans d’autres pays. Veuillez consulter les règles de confidentialité de Google pour en savoir plus sur ses garanties.
+
+11. Sécurité
+Vos photos et vos données de tri ne quittent jamais votre appareil par l’intermédiaire de Rollkeep. Les données liées à la publicité sont traitées par Google selon ses propres pratiques de sécurité.
+
+12. Modifications de la présente politique
+Si nous modifions cette politique, nous mettrons à jour la date d’entrée en vigueur sur cette page et, en cas de changement important, nous le signalerons dans les notes de version de l’app.
+
+13. Contact
+Neatlab
+E-mail : support@neatlab.app

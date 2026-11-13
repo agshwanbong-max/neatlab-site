@@ -1,0 +1,75 @@
+Rollkeepin tietosuojakäytäntö
+
+Voimassa alkaen: 2026-11-13
+
+Tässä tietosuojakäytännössä kerrotaan, miten Rollkeep-iOS-appi (”Rollkeep”, ”appi”) käsittelee tietoja. Rollkeepin on kehittänyt Neatlab (”me”).
+
+1. Yhteenveto
+- Rollkeep ei vaadi tiliä, eikä sillä ole omia palvelimia.
+- Kuvasi, videosi, analyysitulokset ja siivoushistoria pysyvät iPhonessasi. Emme koskaan vastaanota niitä, eikä niitä koskaan käytetä mainontaan.
+- Rollkeep näyttää mainoksia Google AdMobin kautta. Google voi kerätä tiettyjä laite- ja käyttötietoja mainosten näyttämistä ja mittaamista varten osiossa 4 kuvatulla tavalla.
+- Voit valita, sallitko mainosseurannan, ja appi toimii samalla tavalla kummassakin tapauksessa.
+
+2. Tiedot, joita emme kerää
+Emme kerää tai tallenna seuraavia tietoja, eikä meillä ole pääsyä niihin:
+- kuvasi tai videosi tai niiden sisältö tai metatiedot;
+- laitteella tehdyn kuva-analyysin tulokset (kuten samankaltaisten kuvien ryhmät tai terävyyspisteet);
+- siivoushistoriasi, asetuksesi tai edistymisesi;
+- nimesi, sähköpostiosoitteesi, puhelinnumerosi tai yhteystietosi.
+
+3. Pääsy kuvakirjastoon ja käsittely laitteella
+Rollkeep pyytää pääsyä kuvakirjastoosi vasta, kun napautat ”Aloita kuvien siivoaminen”. Käytämme tätä pääsyä vain kuviesi näyttämiseen kuukausi kerrallaan iPhonessasi, kuvasarjojen, samankaltaisten kuvien, kuvakaappausten ja suurten videoiden ryhmittelyyn sekä kuvien poistamiseen tai suosikeiksi merkitsemiseen, kun pyydät sitä.
+- Kaikki kuvien käsittely tapahtuu laitteellasi. Kuvia ei ladata minnekään.
+- Rollkeep tallentaa laitteelle vain viittaukset (tunnisteet) kuviin sekä päätöksesi (säilytä, poistojono, suosikki), jotta se muistaa edistymisesi.
+- Kuvien poistaminen vaatii aina vahvistuksesi iOS:n järjestelmävalintaikkunassa. Poistetut kohteet siirtyvät Kuvat-apin ”Äskettäin poistetut” -albumiin, josta ne voi palauttaa 30 päivän ajan.
+- Voit muuttaa tai perua kuvien käyttöoikeuden milloin tahansa iOS:ssä kohdassa Asetukset > Tietosuoja ja suojaus > Kuvat tai valitsemalla ”Rajoitettu pääsy”.
+
+4. Mainonta (Google AdMob)
+Rollkeep on ilmainen, ja se rahoitetaan Google AdMobin tarjoamilla mainoksilla. Google AdMob on Google LLC:n palvelu (tai Google Ireland Limitedin palvelu Euroopan talousalueella, Yhdistyneessä kuningaskunnassa ja Sveitsissä oleville käyttäjille). Emme jaa kuviasi, kuvatietojasi tai siivoushistoriaasi Googlelle tai muille mainoskumppaneille.
+
+Kun mainoksia pyydetään, apissa oleva Google Mobile Ads SDK voi Googlen ilmoituksen mukaan kerätä seuraavia tietoja:
+- Laitetunnisteet, kuten mainostunniste (IDFA, vain jos sallit seurannan) tai muut appiin tai kehittäjään sidotut tunnisteet;
+- Likimääräinen sijainti, joka on esimerkiksi päätelty IP-osoitteestasi;
+- Mainostiedot, kuten näkemäsi mainokset;
+- Tuotteen käyttötiedot, kuten apin käynnistykset, napautukset ja videoiden katselut;
+- Diagnostiikkatiedot, kuten kaatumislokit ja suorituskykytiedot (esimerkiksi käynnistysaika, jumiutumisten määrä tai energiankulutus).
+
+Google käyttää näitä tietoja mainosten näyttämiseen, mainosten tehon mittaamiseen, petosten estämiseen ja palvelujensa parantamiseen. Jos sallit seurannan, mainoksia voidaan kohdentaa kiinnostuksen kohteidesi perusteella. Jos et salli, Google voi silti näyttää kohdentamattomia mainoksia, joissa voidaan käyttää rajallisia tietoja, kuten likimääräistä sijaintia ja apin asiayhteyttä.
+
+Lisätietoja:
+- Googlen tietosuojakäytäntö: https://policies.google.com/privacy
+- Miten Google käyttää palvelujaan hyödyntävien sivustojen ja appien tietoja: https://policies.google.com/technologies/partner-sites
+- Miten Google käyttää mainostietoja: https://policies.google.com/technologies/ads
+
+Missä mainoksia näytetään: yksi banneri Tänään-näkymässä ja yksi Kuukaudet-näkymässä; joskus koko näytön mainos, kun olet käynyt kuukauden läpi ja napautat Koti (enintään kahdesti päivässä); sekä palkintomainos vain, jos itse valitset katsoa sellaisen saadaksesi ylimääräisen ryhmäsarjan. Mainoksia ei koskaan näytetä näkymissä, joissa katselet, lajittelet tai poistat kuvia, eikä widgeteissä.
+
+5. Valintasi
+- App Tracking Transparency: Rollkeep pyytää lupaa ennen minkäänlaista seurantaa. Voit muuttaa valintaasi milloin tahansa iOS:ssä kohdassa Asetukset > Tietosuoja ja suojaus > Seuranta. Ominaisuudet ja mainosten määrä ovat samat kummassakin tapauksessa.
+- Suostumus (ETA, Yhdistynyt kuningaskunta, Sveitsi ja muut alueet, joilla sitä edellytetään): Rollkeep pyytää suostumustasi Googlen User Messaging Platformin avulla. Voit tarkistaa tai muuttaa valintojasi milloin tahansa apissa kohdassa Asetukset > Tietosuoja ja mainokset.
+- Sijainti: Rollkeep ei pyydä pääsyä laitteesi sijaintipalveluihin. Google voi päätellä likimääräisen sijainnin IP-osoitteestasi.
+- Kohdennetut mainokset: voit myös rajoittaa mainosten kohdentamista Google-asetuksissasi, jos se on mahdollista.
+
+6. Oikeusperusteet (ETA, Yhdistynyt kuningaskunta, Sveitsi)
+Kun GDPR tai vastaava lainsäädäntö on voimassa, Googlen mainontaan liittyvä käsittely perustuu suostumukseesi, joka kerätään Googlen suostumusilmoituksella, tai muihin oikeusperusteisiin, jotka Google kuvaa omassa tietosuojakäytännössään. Emme käsittele henkilötietojasi omilla palvelimillamme.
+
+7. Laitteellesi tallennetut tiedot ja niiden poistaminen
+Asetuksesi, edistymisesi, poistojono, siivouksen kokonaismäärät ja widgetin tiedot tallennetaan vain laitteellesi. Voit poistaa ne kohdassa Asetukset > Nollaa siivoushistoria (tämä ei poista kuvia) tai poistamalla apin. Googlen keräämiä tietoja säilytetään Googlen käytäntöjen mukaisesti.
+
+8. Lapset
+Rollkeepia ei ole suunnattu alle 13-vuotiaille lapsille (tai maasi vähimmäisikää nuoremmille). Emme tietoisesti kerää henkilötietoja lapsilta. Apin mainossisällön ikäluokitus on asetettu sopivaksi yleisölle.
+
+9. Oikeutesi
+Asuinpaikastasi riippuen (esimerkiksi GDPR:n tai Yhdysvaltain osavaltioiden tietosuojalakien nojalla) sinulla voi olla oikeus saada pääsy henkilötietoihisi, oikaista tai poistaa niitä tai vastustaa niiden käsittelyä tai kieltäytyä kohdennetusta mainonnasta. Koska emme säilytä henkilötietojasi, mainostietoja koskevat pyynnöt kannattaa hoitaa Googlen kautta (katso osion 4 linkit) ja osion 5 valinnoilla. Voit myös ottaa meihin yhteyttä, ja autamme mahdollisuuksiemme mukaan.
+
+10. Kansainväliset siirrot
+Google voi käsitellä tietoja Yhdysvalloissa ja muissa maissa. Lisätietoja Googlen suojatoimista on Googlen tietosuojakäytännössä.
+
+11. Tietoturva
+Kuvasi ja siivoustietosi eivät koskaan poistu laitteeltasi Rollkeepin kautta. Mainontaan liittyviä tietoja käsittelee Google omien tietoturvakäytäntöjensä mukaisesti.
+
+12. Muutokset tähän käytäntöön
+Jos muutamme tätä käytäntöä, päivitämme voimaantulopäivän tälle sivulle ja mainitsemme merkittävistä muutoksista apin julkaisutiedoissa.
+
+13. Yhteystiedot
+Neatlab
+Sähköposti: support@neatlab.app

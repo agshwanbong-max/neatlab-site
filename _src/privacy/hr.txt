@@ -1,0 +1,75 @@
+Pravila privatnosti aplikacije Rollkeep
+
+Datum stupanja na snagu: 2026-11-13
+
+Ova Pravila privatnosti objašnjavaju kako iOS aplikacija Rollkeep („Rollkeep“, „aplikacija“) postupa s informacijama. Rollkeep razvija Neatlab („mi“).
+
+1. Sažetak
+- Rollkeep ne zahtijeva račun i nema vlastite poslužitelje.
+- Vaše fotografije, videozapisi, rezultati analize i povijest pospremanja ostaju na vašem iPhoneu. Mi ih nikad ne primamo i nikad se ne koriste za oglase.
+- Rollkeep prikazuje oglase putem usluge Google AdMob. Google može prikupljati određene podatke o uređaju i korištenju radi prikazivanja i mjerenja oglasa, kako je opisano u odjeljku 4.
+- Možete odabrati hoćete li dopustiti praćenje u svrhu oglašavanja, a aplikacija radi jednako u oba slučaja.
+
+2. Informacije koje ne prikupljamo
+Ne prikupljamo, ne pohranjujemo i nemamo pristup:
+- vašim fotografijama ili videozapisima, ni njihovu sadržaju ili metapodacima;
+- rezultatima analize fotografija na uređaju (kao što su grupe sličnih fotografija ili ocjene oštrine);
+- vašoj povijesti pospremanja, postavkama ili napretku;
+- vašem imenu, adresi e-pošte, broju telefona ili kontaktima.
+
+3. Pristup knjižnici fotografija i obrada na uređaju
+Rollkeep traži pristup vašoj knjižnici fotografija tek nakon što dodirnete „Započni pospremanje fotografija“. Taj pristup koristimo samo kako bismo vam na iPhoneu prikazali fotografije mjesec po mjesec, grupirali rafale, slične fotografije, snimke zaslona i velike videozapise te brisali fotografije ili ih dodavali u omiljene kad to zatražite.
+- Sva obrada fotografija odvija se na vašem uređaju. Fotografije se nikamo ne prenose.
+- Rollkeep na uređaju sprema samo reference (identifikatore) na fotografije i vaše odluke (zadrži, red za brisanje, omiljeno) kako bi zapamtio vaš napredak.
+- Brisanje fotografija uvijek zahtijeva vašu potvrdu u dijaloškom okviru sustava iOS. Obrisane stavke premještaju se u album „Nedavno obrisano“ u aplikaciji Foto, gdje ih je moguće vratiti 30 dana.
+- Pristup fotografijama možete u bilo kojem trenutku promijeniti ili opozvati u iOS Postavkama > Privatnost i sigurnost > Foto ili odabirom opcije „Ograničen pristup“.
+
+4. Oglašavanje (Google AdMob)
+Rollkeep je besplatan i podržan oglasima koje pruža Google AdMob, usluga tvrtke Google LLC (odnosno Google Ireland Limited za korisnike u Europskom gospodarskom prostoru, Ujedinjenoj Kraljevini i Švicarskoj). Vaše fotografije, informacije o fotografijama ni povijest pospremanja ne dijelimo s Googleom niti s bilo kojim drugim oglašivačkim partnerom.
+
+Kad se zatraže oglasi, Google Mobile Ads SDK u aplikaciji može prikupljati sljedeće informacije, prema Googleovoj izjavi:
+- identifikatore uređaja, kao što je identifikator za oglašavanje (IDFA, samo ako dopustite praćenje) ili drugi identifikatori na razini aplikacije ili razvojnog programera;
+- približnu (grubu) lokaciju, primjerice izvedenu iz vaše IP adrese;
+- podatke o oglašavanju, kao što su oglasi koje ste vidjeli;
+- podatke o interakciji s proizvodom, kao što su pokretanja aplikacije, dodiri i pregledi videozapisa;
+- dijagnostičke podatke, kao što su zapisnici o rušenju i podaci o izvedbi (na primjer, vrijeme pokretanja, stopa zastoja ili potrošnja energije).
+
+Google te informacije koristi za prikazivanje oglasa, mjerenje uspješnosti oglasa, sprječavanje prijevara i poboljšanje svojih usluga. Ako dopustite praćenje, oglasi se mogu prilagoditi vašim interesima. Ako ne dopustite, Google i dalje može prikazivati neprilagođene oglase, koji mogu koristiti ograničene podatke kao što su približna lokacija i kontekst aplikacije.
+
+Saznajte više:
+- Googleova pravila o privatnosti: https://policies.google.com/privacy
+- Kako Google koristi informacije s web-mjesta ili iz aplikacija koje koriste njegove usluge: https://policies.google.com/technologies/partner-sites
+- Kako Google koristi podatke o oglašavanju: https://policies.google.com/technologies/ads
+
+Gdje se prikazuju oglasi: jedan natpis na zaslonu Danas i jedan na zaslonu Mjeseci; ponekad oglas preko cijelog zaslona nakon što završite mjesec i dodirnete Početna (najviše dvaput dnevno); te oglas s nagradom samo ako ga odlučite pogledati za dodatni skup grupa. Oglasi se nikad ne prikazuju na zaslonima na kojima pregledavate, razvrstavate ili brišete fotografije niti u widgetima.
+
+5. Vaši izbori
+- Transparentnost praćenja u aplikacijama (App Tracking Transparency): Rollkeep traži dopuštenje prije bilo kakvog praćenja. Svoj izbor možete u bilo kojem trenutku promijeniti u iOS Postavkama > Privatnost i sigurnost > Praćenje. Značajke i broj oglasa jednaki su u oba slučaja.
+- Privola (EGP, Ujedinjena Kraljevina, Švicarska i druge regije u kojima je potrebna): Rollkeep koristi Googleovu platformu User Messaging Platform kako bi zatražio vašu privolu. Svoje izbore možete u bilo kojem trenutku pregledati ili promijeniti u aplikaciji, u odjeljku Postavke > Privatnost i oglasi.
+- Lokacija: Rollkeep ne traži pristup lokacijskim uslugama vašeg uređaja. Google može približnu lokaciju zaključiti iz vaše IP adrese.
+- Prilagođeni oglasi: prilagodbu oglasa možete ograničiti i u svojim Google postavkama, gdje je to dostupno.
+
+6. Pravne osnove (EGP, Ujedinjena Kraljevina, Švicarska)
+Ondje gdje se primjenjuju GDPR ili slični zakoni, Googleova obrada povezana s oglasima temelji se na vašoj privoli prikupljenoj putem Googleove poruke o privoli ili na drugim pravnim osnovama koje Google opisuje u vlastitim pravilima o privatnosti. Vaše osobne podatke ne obrađujemo na vlastitim poslužiteljima.
+
+7. Podaci pohranjeni na vašem uređaju i kako ih obrisati
+Vaše postavke, napredak, red za brisanje, ukupni rezultati pospremanja i podaci widgeta pohranjuju se samo na vašem uređaju. Možete ih obrisati u odjeljku Postavke > Poništi povijest pospremanja (time se ne brišu fotografije) ili brisanjem aplikacije. Informacije koje prikuplja Google čuvaju se u skladu s Googleovim pravilima.
+
+8. Djeca
+Rollkeep nije namijenjen djeci mlađoj od 13 godina (ili mlađoj od minimalne dobi propisane u vašoj zemlji). Svjesno ne prikupljamo osobne podatke od djece. Dobna oznaka sadržaja oglasa u aplikaciji postavljena je tako da bude prikladna za opću publiku.
+
+9. Vaša prava
+Ovisno o tome gdje živite (primjerice, prema GDPR-u ili zakonima o privatnosti pojedinih saveznih država SAD-a), možda imate pravo na pristup svojim osobnim podacima, njihov ispravak, brisanje ili prigovor na njihovu obradu, ili na odustajanje od ciljanog oglašavanja. Budući da ne posjedujemo vaše osobne podatke, zahtjeve u vezi s podacima o oglašavanju najbolje je uputiti putem Googlea (pogledajte poveznice u odjeljku 4) i izbora u odjeljku 5. Možete se obratiti i nama, a pomoći ćemo koliko možemo.
+
+10. Međunarodni prijenosi
+Google može obrađivati informacije u Sjedinjenim Američkim Državama i drugim zemljama. Pojedinosti o njegovim zaštitnim mjerama potražite u Googleovim pravilima o privatnosti.
+
+11. Sigurnost
+Vaše fotografije i podaci o pospremanju nikad ne napuštaju vaš uređaj putem aplikacije Rollkeep. Podacima povezanima s oglasima upravlja Google u skladu sa svojim sigurnosnim praksama.
+
+12. Izmjene ovih pravila
+Ako izmijenimo ova pravila, ažurirat ćemo datum stupanja na snagu na ovoj stranici, a značajne izmjene navest ćemo i u bilješkama o izdanju aplikacije.
+
+13. Kontakt
+Neatlab
+E-pošta: support@neatlab.app

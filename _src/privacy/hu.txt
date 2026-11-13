@@ -1,0 +1,75 @@
+A Rollkeep adatvédelmi irányelvei
+
+Hatályos: 2026-11-13
+
+Ezek az Adatvédelmi irányelvek azt ismertetik, hogyan kezeli az információkat a Rollkeep iOS-app („Rollkeep”, „az app”). A Rollkeepet a Neatlab („mi”) fejleszti.
+
+1. Összefoglalás
+- A Rollkeep nem igényel fiókot, és nem üzemeltet saját szervereket.
+- A fotóid, videóid, az elemzési eredmények és a rendrakási előzmények az iPhone-odon maradnak. Soha nem kapjuk meg őket, és soha nem használjuk fel őket hirdetésekhez.
+- A Rollkeep a Google AdMob szolgáltatáson keresztül jelenít meg hirdetéseket. A Google a hirdetések megjelenítése és mérése érdekében bizonyos eszköz- és használati adatokat gyűjthet, a 4. pontban leírtak szerint.
+- Te döntheted el, hogy engedélyezed-e a hirdetési célú követést, és az app mindkét esetben ugyanúgy működik.
+
+2. Általunk nem gyűjtött információk
+Nem gyűjtjük, nem tároljuk, és nem férünk hozzá a következőkhöz:
+- a fotóid vagy videóid, illetve azok tartalma vagy metaadatai;
+- az eszközön végzett fotóelemzés eredményei (például a hasonló fotók csoportjai vagy az élességi pontszámok);
+- a rendrakási előzményeid, beállításaid vagy az előrehaladásod;
+- a neved, e-mail-címed, telefonszámod vagy névjegyeid.
+
+3. Hozzáférés a fotókönyvtárhoz és feldolgozás az eszközön
+A Rollkeep csak azután kér hozzáférést a fotókönyvtáradhoz, hogy a „Fotók rendezésének indítása” gombra koppintasz. Ezt a hozzáférést kizárólag arra használjuk, hogy az iPhone-odon hónapról hónapra megjelenítsük a fotóidat, csoportosítsuk a sorozatképeket, a hasonló fotókat, a képernyőképeket és a nagy videókat, valamint hogy kérésedre töröljük a fotókat vagy kedvencnek jelöljük őket.
+- A fotók feldolgozása teljes egészében az eszközödön történik. A fotókat sehová sem töltjük fel.
+- A Rollkeep az eszközön csak a fotókra mutató hivatkozásokat (azonosítókat) és a döntéseidet (megtartás, törlési sor, kedvenc) menti, hogy emlékezzen az előrehaladásodra.
+- A fotók törléséhez mindig meg kell erősítened a műveletet egy iOS-rendszerpárbeszédablakban. A törölt elemek a Fotók app „Nemrég törölt” albumába kerülnek, ahonnan 30 napig visszaállíthatók.
+- A fotókhoz való hozzáférést bármikor módosíthatod vagy visszavonhatod az iOS Beállítások > Adatvédelem és biztonság > Fotók menüjében, illetve a „Korlátozott hozzáférés” lehetőség kiválasztásával.
+
+4. Hirdetések (Google AdMob)
+A Rollkeep ingyenes, és a Google AdMob által biztosított hirdetések tartják fenn. A Google AdMob a Google LLC (az Európai Gazdasági Térségben, az Egyesült Királyságban és Svájcban élő felhasználók esetében a Google Ireland Limited) szolgáltatása. A fotóidat, a fotókkal kapcsolatos információkat és a rendrakási előzményeidet nem osztjuk meg a Google-lel vagy más hirdetési partnerrel.
+
+Hirdetés kérésekor az appban található Google Mobile Ads SDK a Google tájékoztatása szerint a következő információkat gyűjtheti:
+- Eszközazonosítók, például a hirdetésazonosító (IDFA, csak ha engedélyezed a követést) vagy más, apphoz vagy fejlesztőhöz kötött azonosítók;
+- Hozzávetőleges (durva) helyadat, amelyet például az IP-címedből állapítanak meg;
+- Hirdetési adatok, például a megtekintett hirdetések;
+- Termékinterakciós adatok, például az app indításai, koppintások és videómegtekintések;
+- Diagnosztikai adatok, például összeomlási naplók és teljesítményadatok (például indítási idő, lefagyási arány vagy energiahasználat).
+
+A Google ezeket az információkat hirdetések megjelenítésére, a hirdetések teljesítményének mérésére, a csalások megelőzésére és szolgáltatásai fejlesztésére használja. Ha engedélyezed a követést, a hirdetések az érdeklődési körödhöz igazodhatnak. Ha nem, a Google továbbra is megjeleníthet nem személyre szabott hirdetéseket, amelyek korlátozott adatokat, például hozzávetőleges helyadatot és az app kontextusát használhatják.
+
+További információ:
+- A Google adatvédelmi irányelvei: https://policies.google.com/privacy
+- Hogyan használja a Google a szolgáltatásait használó webhelyekről és alkalmazásokból származó információkat: https://policies.google.com/technologies/partner-sites
+- Hogyan használja a Google a hirdetési adatokat: https://policies.google.com/technologies/ads
+
+Hol jelennek meg hirdetések: egy szalaghirdetés a Ma képernyőn és egy a Hónapok képernyőn; néha egy teljes képernyős hirdetés, miután befejeztél egy hónapot és a Kezdőlapra koppintasz (naponta legfeljebb kétszer); valamint jutalmazott hirdetés csak akkor, ha egy további csoportkészletért úgy döntesz, hogy megnézed. Hirdetések soha nem jelennek meg azokon a képernyőkön, ahol fotókat nézel, válogatsz vagy törölsz, és a widgetekben sem.
+
+5. A te döntéseid
+- Alkalmazáskövetési átláthatóság (App Tracking Transparency): A Rollkeep bármilyen követés előtt engedélyt kér. A döntésedet bármikor módosíthatod az iOS Beállítások > Adatvédelem és biztonság > Követés menüjében. A funkciók és a hirdetések száma mindkét esetben ugyanaz.
+- Hozzájárulás (EGT, Egyesült Királyság, Svájc és más régiók, ahol kötelező): A Rollkeep a Google User Messaging Platform segítségével kéri a hozzájárulásodat. A döntéseidet bármikor áttekintheted vagy módosíthatod az appban a Beállítások > Adatvédelem és hirdetések menüpontban.
+- Helyadatok: A Rollkeep nem kér hozzáférést az eszközöd helymeghatározási szolgáltatásaihoz. A Google az IP-címedből következtethet a hozzávetőleges helyadatra.
+- Személyre szabott hirdetések: ahol elérhető, a Google-beállításaidban is korlátozhatod a hirdetések személyre szabását.
+
+6. Jogalapok (EGT, Egyesült Királyság, Svájc)
+Ahol a GDPR vagy hasonló jogszabályok alkalmazandók, a Google által végzett, hirdetésekkel kapcsolatos adatkezelés a Google hozzájárulási üzenetén keresztül megadott hozzájárulásodon, vagy a Google saját adatvédelmi irányelveiben ismertetett egyéb jogalapokon alapul. A személyes adataidat nem kezeljük saját szervereken.
+
+7. Az eszközödön tárolt adatok és azok törlése
+A beállításaid, az előrehaladásod, a törlési sor, a rendrakási összesítések és a widgetadatok kizárólag az eszközödön tárolódnak. Ezeket a Beállítások > Rendrakási előzmények visszaállítása menüpontban törölheted (ez nem törli a fotókat), vagy az app törlésével. A Google által gyűjtött információkat a Google saját irányelvei szerint őrzik meg.
+
+8. Gyermekek
+A Rollkeep nem 13 év alatti gyermekeknek (illetve az adott országban előírt minimális életkor alatti gyermekeknek) szól. Tudatosan nem gyűjtünk személyes adatokat gyermekektől. Az app hirdetési tartalmának besorolása úgy van beállítva, hogy minden korosztály számára megfelelő legyen.
+
+9. A jogaid
+Lakóhelyedtől függően (például a GDPR vagy az egyesült államokbeli tagállami adatvédelmi törvények alapján) jogod lehet a személyes adataidhoz való hozzáféréshez, azok helyesbítéséhez, törléséhez, a kezelésük elleni tiltakozáshoz, vagy a célzott hirdetésekből való kilépéshez. Mivel nem tárolunk személyes adatokat rólad, a hirdetési adatokkal kapcsolatos kérelmeket legjobb a Google-nél intézni (lásd a 4. pontban található hivatkozásokat), illetve az 5. pontban leírt lehetőségekkel. Velünk is felveheted a kapcsolatot, és lehetőségeinkhez mérten segítünk.
+
+10. Nemzetközi adattovábbítás
+A Google az Egyesült Államokban és más országokban is kezelhet információkat. Az alkalmazott garanciákról a Google adatvédelmi irányelveiben találsz részleteket.
+
+11. Biztonság
+A fotóid és a rendrakási adataid a Rollkeepen keresztül soha nem hagyják el az eszközödet. A hirdetésekkel kapcsolatos adatokat a Google a saját biztonsági gyakorlata szerint kezeli.
+
+12. Az irányelvek módosítása
+Ha módosítjuk ezeket az irányelveket, frissítjük a hatálybalépés dátumát ezen az oldalon, jelentős változások esetén pedig az app kiadási megjegyzéseiben is megemlítjük.
+
+13. Kapcsolat
+Neatlab
+E-mail: support@neatlab.app

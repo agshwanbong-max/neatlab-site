@@ -48,3 +48,9 @@ code{font-family:var(--mono);font-size:.92em}
 footer.site{border-top:1px solid var(--hairline);padding:20px 0 40px;font-size:14px;color:var(--ink3)}
 footer.site a{color:var(--ink2);margin-right:14px}
 @media (max-width:480px){h1{font-size:28px}.lede{font-size:17px}main{padding-top:28px}}
+label.lang{position:relative}
+label.lang select{appearance:none;-webkit-appearance:none;background:var(--surface);color:var(--ink);border:1px solid var(--hairline);border-radius:999px;font:500 14px/1 var(--f);min-height:36px;padding:0 30px 0 12px;max-width:160px;cursor:pointer;
+  background-image:linear-gradient(45deg,transparent 50%,var(--ink2) 50%),linear-gradient(135deg,var(--ink2) 50%,transparent 50%);background-position:calc(100% - 15px) 50%,calc(100% - 10px) 50%;background-size:5px 5px;background-repeat:no-repeat}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.appicon{border-radius:20px;margin-bottom:16px}
+main .notice{margin:0 0 20px}

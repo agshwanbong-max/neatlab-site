@@ -1,0 +1,75 @@
+Rollkeep privatumo politika
+
+Įsigaliojimo data: 2026-11-13
+
+Ši privatumo politika paaiškina, kaip iOS programėlė Rollkeep („Rollkeep“, „programėlė“) tvarko informaciją. Rollkeep kuria Neatlab („mes“).
+
+1. Santrauka
+- Rollkeep nereikalauja paskyros ir neturi savo serverių.
+- Jūsų nuotraukos, vaizdo įrašai, analizės rezultatai ir tvarkymo istorija lieka jūsų iPhone. Mes jų niekada negauname, ir jie niekada nenaudojami reklamai.
+- Rollkeep rodo reklamas per Google AdMob. Google gali rinkti tam tikrą informaciją apie įrenginį ir naudojimą, kad galėtų rodyti ir vertinti reklamas, kaip aprašyta 4 skyriuje.
+- Galite pasirinkti, ar leisti reklamos sekimą, o programėlė abiem atvejais veikia vienodai.
+
+2. Informacija, kurios nerenkame
+Mes nerenkame, nesaugome ir neturime prieigos prie:
+- jūsų nuotraukų ar vaizdo įrašų, jų turinio ar metaduomenų;
+- įrenginyje atliktos nuotraukų analizės rezultatų (pavyzdžiui, panašių nuotraukų grupių ar ryškumo įverčių);
+- jūsų tvarkymo istorijos, nustatymų ar pažangos;
+- jūsų vardo, el. pašto adreso, telefono numerio ar kontaktų.
+
+3. Prieiga prie nuotraukų bibliotekos ir apdorojimas įrenginyje
+Rollkeep prašo prieigos prie jūsų nuotraukų bibliotekos tik tada, kai bakstelite „Pradėti tvarkyti nuotraukas“. Šią prieigą naudojame tik tam, kad jūsų iPhone parodytume jūsų nuotraukas pagal mėnesius, sugrupuotume serijas, panašias nuotraukas, ekrano nuotraukas ir didelius vaizdo įrašus bei ištrintume nuotraukas ar pažymėtume jas kaip mėgstamas, kai to paprašote.
+- Visos nuotraukos apdorojamos jūsų įrenginyje. Nuotraukos niekur neįkeliamos.
+- Rollkeep išsaugo tik įrenginyje esančias nuorodas (identifikatorius) į nuotraukas ir jūsų sprendimus (pasilikti, ištrynimo eilė, mėgstama), kad įsimintų jūsų pažangą.
+- Nuotraukoms ištrinti visada reikia jūsų patvirtinimo iOS sistemos dialogo lange. Ištrinti elementai perkeliami į programos Photos albumą „Neseniai ištrinti“ (Recently Deleted), iš kurio juos galima atkurti per 30 dienų.
+- Prieigą prie nuotraukų galite bet kada pakeisti arba atšaukti iOS nustatymuose: Nustatymai > Privatumas ir sauga > Photos (Settings > Privacy & Security > Photos) arba pasirinkę „Ribota prieiga“ (Limited Access).
+
+4. Reklama (Google AdMob)
+Rollkeep yra nemokama, ją remia reklamos, kurias teikia Google AdMob – Google LLC paslauga (Europos ekonominės erdvės, Jungtinės Karalystės ir Šveicarijos naudotojams – Google Ireland Limited). Mes nesidalijame jūsų nuotraukomis, informacija apie nuotraukas ar tvarkymo istorija su Google ar jokiu kitu reklamos partneriu.
+
+Kai užklausiama reklamų, programėlėje esantis Google Mobile Ads SDK, remiantis Google pateikta informacija, gali rinkti šią informaciją:
+- įrenginio identifikatorius, pavyzdžiui, reklamos identifikatorių (IDFA, tik jei leidžiate sekimą) arba kitus programėlės ar kūrėjo lygmens identifikatorius;
+- apytikslę (bendrą) vietovę, pavyzdžiui, nustatytą pagal jūsų IP adresą;
+- reklamos duomenis, pavyzdžiui, jums rodytas reklamas;
+- sąveikos su produktu duomenis, pavyzdžiui, programėlės paleidimus, bakstelėjimus ir vaizdo įrašų peržiūras;
+- diagnostikos duomenis, pavyzdžiui, strigčių žurnalus ir našumo duomenis (pavyzdžiui, paleidimo laiką, užstrigimų dažnį ar energijos sąnaudas).
+
+Google naudoja šią informaciją reklamoms rodyti, reklamų veiksmingumui vertinti, sukčiavimui užkirsti kelią ir savo paslaugoms tobulinti. Jei leidžiate sekimą, reklamos gali būti suasmenintos pagal jūsų pomėgius. Jei neleidžiate, Google vis tiek gali rodyti nesuasmenintas reklamas, kurioms gali būti naudojami riboti duomenys, pavyzdžiui, apytikslė vietovė ir programėlės kontekstas.
+
+Sužinokite daugiau:
+- Google privatumo politika: https://policies.google.com/privacy
+- Kaip Google naudoja informaciją iš svetainių ar programų, kurios naudoja jos paslaugas: https://policies.google.com/technologies/partner-sites
+- Kaip Google naudoja reklamos duomenis: https://policies.google.com/technologies/ads
+
+Kur rodomos reklamos: viena reklamjuostė ekrane Šiandien ir viena ekrane Mėnesiai; kartais viso ekrano reklama, kai užbaigiate mėnesį ir bakstelite Pradžia (ne dažniau kaip du kartus per dieną); ir atlyginamoji reklama tik tada, jei patys nusprendžiate ją peržiūrėti, kad gautumėte papildomą grupių rinkinį. Reklamos niekada nerodomos ekranuose, kuriuose peržiūrite, rūšiuojate ar triname nuotraukas, ir valdikliuose.
+
+5. Jūsų pasirinkimai
+- Programų sekimo skaidrumas (App Tracking Transparency): prieš bet kokį sekimą Rollkeep paprašo leidimo. Savo pasirinkimą galite bet kada pakeisti iOS nustatymuose: Nustatymai > Privatumas ir sauga > Sekimas (Settings > Privacy & Security > Tracking). Funkcijos ir reklamų skaičius abiem atvejais tie patys.
+- Sutikimas (EEE, Jungtinė Karalystė, Šveicarija ir kiti regionai, kuriuose jo reikia): Rollkeep naudoja Google User Messaging Platform, kad paprašytų jūsų sutikimo. Savo pasirinkimus galite bet kada peržiūrėti ar pakeisti programėlėje, skiltyje Nustatymai > Privatumas ir reklama.
+- Vietovė: Rollkeep neprašo prieigos prie jūsų įrenginio vietovės paslaugų. Google gali nustatyti apytikslę vietovę pagal jūsų IP adresą.
+- Suasmenintos reklamos: reklamų suasmeninimą taip pat galite apriboti savo Google nustatymuose, jei tokia galimybė yra.
+
+6. Teisiniai pagrindai (EEE, Jungtinė Karalystė, Šveicarija)
+Kai taikomas BDAR ar panašūs teisės aktai, Google su reklama susijęs duomenų tvarkymas grindžiamas jūsų sutikimu, gautu per Google sutikimo pranešimą, arba kitais teisiniais pagrindais, kuriuos Google aprašo savo privatumo politikoje. Mes netvarkome jūsų asmens duomenų savo serveriuose.
+
+7. Jūsų įrenginyje saugomi duomenys ir kaip juos ištrinti
+Jūsų nustatymai, pažanga, ištrynimo eilė, tvarkymo suvestinės ir valdiklių duomenys saugomi tik jūsų įrenginyje. Juos galite ištrinti skiltyje Nustatymai > Atkurti tvarkymo istoriją (nuotraukos nebus ištrintos) arba ištrynę programėlę. Google surinkta informacija saugoma pagal Google politiką.
+
+8. Vaikai
+Rollkeep nėra skirta jaunesniems nei 13 metų vaikams (arba jaunesniems nei jūsų šalyje nustatytas minimalus amžius). Mes sąmoningai nerenkame vaikų asmeninės informacijos. Programėlės reklamų turinio amžiaus reitingas nustatytas kaip tinkamas plačiajai auditorijai.
+
+9. Jūsų teisės
+Priklausomai nuo jūsų gyvenamosios vietos (pavyzdžiui, pagal BDAR ar JAV valstijų privatumo įstatymus), galite turėti teisę susipažinti su savo asmens duomenimis, juos ištaisyti, ištrinti ar nesutikti, kad jie būtų tvarkomi, arba atsisakyti tikslinės reklamos. Kadangi mes neturime jūsų asmens duomenų, prašymus dėl reklamos duomenų geriausia teikti per Google (žr. nuorodas 4 skyriuje) ir naudotis 5 skyriuje aprašytais pasirinkimais. Taip pat galite susisiekti su mumis – padėsime, kiek galėsime.
+
+10. Tarptautinis duomenų perdavimas
+Google gali tvarkyti informaciją Jungtinėse Amerikos Valstijose ir kitose šalyse. Išsamią informaciją apie jos taikomas apsaugos priemones rasite Google privatumo politikoje.
+
+11. Saugumas
+Jūsų nuotraukos ir tvarkymo duomenys per Rollkeep niekada nepalieka jūsų įrenginio. Su reklama susijusius duomenis Google tvarko pagal savo saugumo praktiką.
+
+12. Šios politikos pakeitimai
+Jei pakeisime šią politiką, šiame puslapyje atnaujinsime įsigaliojimo datą, o apie reikšmingus pakeitimus paminėsime programėlės versijos pastabose.
+
+13. Kontaktai
+Neatlab
+El. paštas: support@neatlab.app

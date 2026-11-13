@@ -5,37 +5,90 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Rollkeep</title>
 <meta name="description" content="Rollkeep: clean up one month of your camera roll a day, in about a minute. Free. Photos never leave your iPhone.">
+<link rel="canonical" href="https://neatlab.app/rollkeep/">
+<link rel="alternate" hreflang="en" href="https://neatlab.app/rollkeep/">
+<link rel="alternate" hreflang="ko" href="https://neatlab.app/rollkeep/ko/">
+<link rel="alternate" hreflang="ja" href="https://neatlab.app/rollkeep/ja/">
+<link rel="alternate" hreflang="zh-Hans" href="https://neatlab.app/rollkeep/zh-hans/">
+<link rel="alternate" hreflang="zh-Hant" href="https://neatlab.app/rollkeep/zh-hant/">
+<link rel="alternate" hreflang="de" href="https://neatlab.app/rollkeep/de/">
+<link rel="alternate" hreflang="fr" href="https://neatlab.app/rollkeep/fr/">
+<link rel="alternate" hreflang="es" href="https://neatlab.app/rollkeep/es/">
+<link rel="alternate" hreflang="it" href="https://neatlab.app/rollkeep/it/">
+<link rel="alternate" hreflang="pt-PT" href="https://neatlab.app/rollkeep/pt/">
+<link rel="alternate" hreflang="nl" href="https://neatlab.app/rollkeep/nl/">
+<link rel="alternate" hreflang="pl" href="https://neatlab.app/rollkeep/pl/">
+<link rel="alternate" hreflang="sv" href="https://neatlab.app/rollkeep/sv/">
+<link rel="alternate" hreflang="da" href="https://neatlab.app/rollkeep/da/">
+<link rel="alternate" hreflang="nb" href="https://neatlab.app/rollkeep/nb/">
+<link rel="alternate" hreflang="fi" href="https://neatlab.app/rollkeep/fi/">
+<link rel="alternate" hreflang="cs" href="https://neatlab.app/rollkeep/cs/">
+<link rel="alternate" hreflang="sk" href="https://neatlab.app/rollkeep/sk/">
+<link rel="alternate" hreflang="hu" href="https://neatlab.app/rollkeep/hu/">
+<link rel="alternate" hreflang="ro" href="https://neatlab.app/rollkeep/ro/">
+<link rel="alternate" hreflang="bg" href="https://neatlab.app/rollkeep/bg/">
+<link rel="alternate" hreflang="el" href="https://neatlab.app/rollkeep/el/">
+<link rel="alternate" hreflang="hr" href="https://neatlab.app/rollkeep/hr/">
+<link rel="alternate" hreflang="sl" href="https://neatlab.app/rollkeep/sl/">
+<link rel="alternate" hreflang="et" href="https://neatlab.app/rollkeep/et/">
+<link rel="alternate" hreflang="lv" href="https://neatlab.app/rollkeep/lv/">
+<link rel="alternate" hreflang="lt" href="https://neatlab.app/rollkeep/lt/">
+<link rel="alternate" hreflang="ga" href="https://neatlab.app/rollkeep/ga/">
+<link rel="alternate" hreflang="mt" href="https://neatlab.app/rollkeep/mt/">
+<link rel="alternate" hreflang="uk" href="https://neatlab.app/rollkeep/uk/">
+<link rel="alternate" hreflang="x-default" href="https://neatlab.app/rollkeep/">
 <link rel="icon" href="/assets/favicon.png">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/style.css">
+<script>
+(function(){
+  var avail=["ko", "ja", "zh-hans", "zh-hant", "de", "fr", "es", "it", "pt", "nl", "pl", "sv", "da", "nb", "fi", "cs", "sk", "hu", "ro", "bg", "el", "hr", "sl", "et", "lv", "lt", "ga", "mt", "uk"], base="/rollkeep/";
+  if(/bot|crawl|spider|slurp|preview/i.test(navigator.userAgent))return;
+  var saved=null; try{saved=localStorage.getItem('nl_lang');}catch(e){}
+  function pick(){
+    if(saved&&(saved==='en'||avail.indexOf(saved)>=0))return saved;
+    var ls=navigator.languages&&navigator.languages.length?navigator.languages:[navigator.language||'en'];
+    for(var i=0;i<ls.length;i++){
+      var l=(ls[i]||'').toLowerCase();
+      if(l.indexOf('zh')===0)return /hant|-tw|-hk|-mo/.test(l)?'zh-hant':'zh-hans';
+      var p=l.split('-')[0];
+      if(p==='no'||p==='nn')p='nb';
+      if(p==='en')return 'en';
+      if(avail.indexOf(p)>=0)return p;
+    }
+    return 'en';
+  }
+  var t=pick();
+  if(t!=='en')location.replace(base+t+'/'+location.hash);
+})();
+</script>
 </head>
 <body>
 <header class="site"><div class="wrap">
   <a class="brand" href="/">neat<span>lab</span></a>
+  <label class="lang"><span class="sr">Language</span>
+    <select id="lang" aria-label="Language"><option value="/rollkeep/" data-code="en" selected>English</option><option value="/rollkeep/ko/" data-code="ko">한국어</option><option value="/rollkeep/ja/" data-code="ja">日本語</option><option value="/rollkeep/zh-hans/" data-code="zh-hans">简体中文</option><option value="/rollkeep/zh-hant/" data-code="zh-hant">繁體中文</option><option value="/rollkeep/de/" data-code="de">Deutsch</option><option value="/rollkeep/fr/" data-code="fr">Français</option><option value="/rollkeep/es/" data-code="es">Español</option><option value="/rollkeep/it/" data-code="it">Italiano</option><option value="/rollkeep/pt/" data-code="pt">Português</option><option value="/rollkeep/nl/" data-code="nl">Nederlands</option><option value="/rollkeep/pl/" data-code="pl">Polski</option><option value="/rollkeep/sv/" data-code="sv">Svenska</option><option value="/rollkeep/da/" data-code="da">Dansk</option><option value="/rollkeep/nb/" data-code="nb">Norsk bokmål</option><option value="/rollkeep/fi/" data-code="fi">Suomi</option><option value="/rollkeep/cs/" data-code="cs">Čeština</option><option value="/rollkeep/sk/" data-code="sk">Slovenčina</option><option value="/rollkeep/hu/" data-code="hu">Magyar</option><option value="/rollkeep/ro/" data-code="ro">Română</option><option value="/rollkeep/bg/" data-code="bg">Български</option><option value="/rollkeep/el/" data-code="el">Ελληνικά</option><option value="/rollkeep/hr/" data-code="hr">Hrvatski</option><option value="/rollkeep/sl/" data-code="sl">Slovenščina</option><option value="/rollkeep/et/" data-code="et">Eesti</option><option value="/rollkeep/lv/" data-code="lv">Latviešu</option><option value="/rollkeep/lt/" data-code="lt">Lietuvių</option><option value="/rollkeep/ga/" data-code="ga">Gaeilge</option><option value="/rollkeep/mt/" data-code="mt">Malti</option><option value="/rollkeep/uk/" data-code="uk">Українська</option></select></label>
 </div></header>
 <main><div class="wrap">
-  <img src="/assets/rollkeep-icon.png" alt="Rollkeep app icon" width="88" height="88" style="border-radius:20px;margin-bottom:16px">
-  <h1>Rollkeep</h1>
-  <p class="lede">One month of your camera roll a day. About a minute. Keep what matters, set the rest aside, and delete together.</p>
-  <p><span class="pill">Coming soon to the App Store</span></p>
-
-  <div class="points">
-    <div><b>Swipe through one month at a time</b>Keep, set aside to delete, or favorite. Undo anytime.</div>
-    <div><b>Bursts, look-alikes, screenshots, big videos</b>Grouped on your iPhone so you can review them quickly.</div>
-    <div><b>Nothing is deleted without you</b>Deleting always asks in an iOS dialog, and deleted items stay in “Recently Deleted” for 30 days.</div>
-    <div><b>All free</b>Supported by ads that stay out of the way: never on the screens where you view, sort, or delete photos.</div>
-    <div><b>Photos stay on your iPhone</b>No account, no server. Your photos are never uploaded or used for ads.</div>
-  </div>
-
-  <div class="btns">
-    <a class="btn" href="/rollkeep/support/">Support</a>
-    <a class="btn" href="/rollkeep/privacy/">Privacy Policy</a>
-    <a class="btn" href="/rollkeep/privacy/ko/">개인정보 처리방침</a>
-  </div>
+<img src="/assets/rollkeep-icon.png" alt="Rollkeep app icon" width="88" height="88" class="appicon">
+<h1>Rollkeep</h1>
+<p class="lede">One month of your camera roll a day. About a minute. Keep what matters, set the rest aside, and delete together.</p>
+<p><span class="pill">Coming soon to the App Store</span></p>
+<div class="points"><div><b>Swipe through one month at a time</b>Keep, set aside to delete, or favorite. Undo anytime.</div><div><b>Bursts, look-alikes, screenshots, big videos</b>Grouped on your iPhone so you can review them quickly.</div><div><b>Nothing is deleted without you</b>Deleting always asks in an iOS dialog, and deleted items stay in “Recently Deleted” for 30 days.</div><div><b>All free</b>Supported by ads that stay out of the way: never on the screens where you view, sort, or delete photos.</div><div><b>Photos stay on your iPhone</b>No account, no server. Your photos are never uploaded or used for ads.</div></div>
+<div class="btns">
+  <a class="btn" href="/rollkeep/support/">Support</a>
+  <a class="btn" href="/rollkeep/privacy/">Privacy Policy</a>
+</div>
 </div></main>
 <footer class="site"><div class="wrap">
-  <a href="/">Neatlab</a><a href="mailto:support@neatlab.app">support@neatlab.app</a>
+  <a href="/rollkeep/">Rollkeep</a><a href="/rollkeep/support/">Support</a><a href="/rollkeep/privacy/">Privacy Policy</a>
   <div>© 2026 Neatlab</div>
 </div></footer>
+<script>
+document.getElementById('lang').addEventListener('change',function(e){
+  var o=e.target.selectedOptions[0]; try{localStorage.setItem('nl_lang',o.dataset.code);}catch(_){}
+  location.href=o.value;
+});
+</script>
 </body>
 </html>

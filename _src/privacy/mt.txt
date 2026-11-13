@@ -1,0 +1,75 @@
+Politika tal-Privatezza ta’ Rollkeep
+
+Data effettiva: 2026-11-13
+
+Din il-Politika tal-Privatezza tispjega kif l-app tal-iOS Rollkeep (“Rollkeep”, “l-app”) tittratta l-informazzjoni. Rollkeep hija żviluppata minn Neatlab (“aħna”).
+
+1. Sommarju
+- Rollkeep ma teħtieġx kont u m’għandhiex is-servers tagħha.
+- Ir-ritratti, il-vidjows, ir-riżultati tal-analiżi u l-istorja tat-tindif tiegħek jibqgħu fuq l-iPhone tiegħek. Aħna qatt ma nirċevuhom, u qatt ma jintużaw għar-reklami.
+- Rollkeep turi reklami permezz ta’ Google AdMob. Google tista’ tiġbor ċerta informazzjoni dwar l-apparat u l-użu biex turi u tkejjel ir-reklami, kif deskritt fit-Taqsima 4.
+- Tista’ tagħżel jekk tippermettix it-traċċar tar-reklami, u l-app taħdem bl-istess mod xorta waħda.
+
+2. Informazzjoni li ma niġbrux
+Aħna ma niġbrux, ma naħżnux u m’għandniex aċċess għal:
+- ir-ritratti jew il-vidjows tiegħek, jew il-kontenut jew il-metadata tagħhom;
+- ir-riżultati tal-analiżi tar-ritratti li ssir fuq l-apparat (bħal gruppi ta’ ritratti simili jew punteġġi tal-preċiżjoni);
+- l-istorja tat-tindif, is-settings jew il-progress tiegħek;
+- ismek, l-indirizz tal-email, in-numru tat-telefon jew il-kuntatti tiegħek.
+
+3. Aċċess għal-librerija tar-ritratti u proċessar fuq l-apparat
+Rollkeep titlob aċċess għal-librerija tar-ritratti tiegħek biss wara li tagħfas “Ibda naddaf ir-ritratti”. Nużaw dan l-aċċess biss biex nuru r-ritratti tiegħek xahar b’xahar fuq l-iPhone tiegħek, biex niġbru fi gruppi sensiela ta’ ritratti, ritratti simili, screenshots u vidjows kbar, u biex inħassru ritratti jew nimmarkawhom bħala favoriti meta titlobna.
+- Il-proċessar kollu tar-ritratti jsir fuq l-apparat tiegħek. Ir-ritratti ma jittellgħu mkien.
+- Rollkeep jissejvja biss referenzi (identifikaturi) fuq l-apparat għar-ritratti u d-deċiżjonijiet tiegħek (żomm, kju tat-tħassir, favorit) biex jiftakar il-progress tiegħek.
+- It-tħassir tar-ritratti dejjem jeħtieġ il-konferma tiegħek f’dijalogu tas-sistema tal-iOS. L-oġġetti mħassra jmorru fl-album “Imħassra Riċentement” (Recently Deleted) tal-app Ritratti (Photos), fejn jistgħu jiġu rkuprati għal 30 jum.
+- Tista’ tbiddel jew tirtira l-aċċess għar-ritratti fi kwalunkwe ħin fis-Settings tal-iOS > Privatezza u Sigurtà > Ritratti (Settings > Privacy & Security > Photos), jew billi tagħżel “Aċċess Limitat” (Limited Access).
+
+4. Reklamar (Google AdMob)
+Rollkeep hija b’xejn u hija sostnuta minn reklami pprovduti minn Google AdMob, servizz ta’ Google LLC (jew Google Ireland Limited għall-utenti fiż-Żona Ekonomika Ewropea, ir-Renju Unit u l-Iżvizzera). Aħna ma naqsmux ir-ritratti tiegħek, informazzjoni dwar ir-ritratti jew l-istorja tat-tindif tiegħek ma’ Google jew ma’ xi sieħeb ieħor tar-reklamar.
+
+Meta jintalbu r-reklami, il-Google Mobile Ads SDK fl-app jista’ jiġbor l-informazzjoni li ġejja, skont id-divulgazzjoni ta’ Google:
+- Identifikaturi tal-apparat, bħall-identifikatur tar-reklamar (IDFA, biss jekk tippermetti t-traċċar) jew identifikaturi oħra fil-livell tal-app jew tal-iżviluppatur;
+- Post approssimattiv (mhux preċiż), pereżempju miksub mill-indirizz IP tiegħek;
+- Data tar-reklamar, bħar-reklami li rajt;
+- Data tal-interazzjoni mal-prodott, bħat-tnedija tal-app, il-mess fuq l-iskrin u l-wiri tal-vidjows;
+- Data dijanjostika, bħal reġistri tal-crashes u data tal-prestazzjoni (pereżempju, il-ħin tat-tnedija, ir-rata ta’ waqfien jew l-użu tal-enerġija).
+
+Google tuża din l-informazzjoni biex turi r-reklami, tkejjel il-prestazzjoni tar-reklami, tipprevjeni l-frodi u ttejjeb is-servizzi tagħha. Jekk tippermetti t-traċċar, ir-reklami jistgħu jiġu personalizzati skont l-interessi tiegħek. Jekk ma tippermettix, Google xorta tista’ turi reklami mhux personalizzati, li jistgħu jużaw data limitata bħall-post approssimattiv u l-kuntest tal-app.
+
+Aktar informazzjoni:
+- Il-Politika tal-Privatezza ta’ Google: https://policies.google.com/privacy
+- Kif Google tuża l-informazzjoni minn siti jew apps li jużaw is-servizzi tagħha: https://policies.google.com/technologies/partner-sites
+- Kif Google tuża d-data tar-reklamar: https://policies.google.com/technologies/ads
+
+Fejn jidhru r-reklami: banner wieħed fuq l-iskrin Illum u wieħed fuq l-iskrin Xhur; xi drabi reklam fuq l-iskrin kollu wara li tlesti xahar u tagħfas Id-Dar (mhux aktar minn darbtejn kuljum); u reklam bi premju biss jekk tagħżel li tara wieħed biex tikseb sett ta’ gruppi addizzjonali. Ir-reklami qatt ma jidhru fuq l-iskrins fejn tara, tissortja jew tħassar ir-ritratti, jew fil-widgets.
+
+5. L-għażliet tiegħek
+- Trasparenza tat-Traċċar tal-Apps (App Tracking Transparency): Rollkeep titlob il-permess qabel kwalunkwe traċċar. Tista’ tbiddel l-għażla tiegħek fi kwalunkwe ħin fis-Settings tal-iOS > Privatezza u Sigurtà > Traċċar (Settings > Privacy & Security > Tracking). Il-funzjonijiet u n-numru ta’ reklami huma l-istess xorta waħda.
+- Kunsens (iż-ŻEE, ir-Renju Unit, l-Iżvizzera u reġjuni oħra fejn ikun meħtieġ): Rollkeep tuża l-User Messaging Platform ta’ Google biex titlob il-kunsens tiegħek. Tista’ tirrevedi jew tbiddel l-għażliet tiegħek fi kwalunkwe ħin fl-app taħt Settings > Privatezza u Reklami.
+- Post: Rollkeep ma titlobx aċċess għas-servizzi tal-post tal-apparat tiegħek. Google tista’ tiddeduċi post approssimattiv mill-indirizz IP tiegħek.
+- Reklami personalizzati: tista’ wkoll tillimita l-personalizzazzjoni tar-reklami fis-settings ta’ Google tiegħek fejn ikun disponibbli.
+
+6. Bażijiet legali (iż-ŻEE, ir-Renju Unit, l-Iżvizzera)
+Fejn japplikaw il-GDPR jew liġijiet simili, il-proċessar relatat mar-reklami minn Google jistrieħ fuq il-kunsens tiegħek miġbur permezz tal-messaġġ tal-kunsens ta’ Google, jew fuq bażijiet legali oħra li Google tiddeskrivi fil-politika tal-privatezza tagħha. Aħna ma nipproċessawx id-data personali tiegħek fuq is-servers tagħna.
+
+7. Data maħżuna fuq l-apparat tiegħek u kif tħassarha
+Is-settings, il-progress, il-kju tat-tħassir, it-totali tat-tindif u d-data tal-widgets tiegħek huma maħżuna biss fuq l-apparat tiegħek. Tista’ tħassarhom f’Settings > Irrisettja l-istorja tat-tindif (dan ma jħassarx ir-ritratti), jew billi tħassar l-app. L-informazzjoni miġbura minn Google tinżamm skont il-politiki ta’ Google.
+
+8. Tfal
+Rollkeep mhix immirata lejn tfal taħt it-13-il sena (jew taħt l-età minima meħtieġa f’pajjiżek). Aħna ma niġbrux xjentement informazzjoni personali mit-tfal. Il-klassifikazzjoni tal-kontenut tar-reklami tal-app hija ssettjata biex tkun adattata għall-pubbliku ġenerali.
+
+9. Id-drittijiet tiegħek
+Skont fejn tgħix (pereżempju, taħt il-GDPR jew il-liġijiet tal-privatezza tal-istati tal-Istati Uniti), jista’ jkollok id-dritt li taċċessa, tikkoreġi jew tħassar id-data personali tiegħek, jew li toġġezzjona għall-proċessar tagħha, jew li tagħżel li ma tirċevix reklamar immirat. Peress li aħna ma nżommux id-data personali tiegħek, it-talbiet dwar id-data tar-reklamar huma l-aħjar li jsiru permezz ta’ Google (ara l-links fit-Taqsima 4) u permezz tal-għażliet fit-Taqsima 5. Tista’ wkoll tikkuntattjana, u ngħinuk fejn nistgħu.
+
+10. Trasferimenti internazzjonali
+Google tista’ tipproċessa l-informazzjoni fl-Istati Uniti u f’pajjiżi oħra. Jekk jogħġbok ara l-Politika tal-Privatezza ta’ Google għal dettalji dwar is-salvagwardji tagħha.
+
+11. Sigurtà
+Ir-ritratti u d-data tat-tindif tiegħek qatt ma jitilqu mill-apparat tiegħek permezz ta’ Rollkeep. Id-data relatata mar-reklami hija ttrattata minn Google skont il-prattiki tas-sigurtà tagħha.
+
+12. Bidliet f’din il-politika
+Jekk nibdlu din il-politika, se naġġornaw id-data effettiva fuq din il-paġna u, għal bidliet sinifikanti, insemmuhom fin-noti tar-rilaxx tal-app.
+
+13. Kuntatt
+Neatlab
+Email: support@neatlab.app
